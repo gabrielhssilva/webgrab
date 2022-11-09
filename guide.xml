@@ -4,6 +4,10 @@
     <display-name lang="pt">A&amp;E FHD H.265</display-name>
     <url>http://www.clarotv.com.br.EK</url>
   </channel>
+  <channel id="Band Sports HD ³">
+    <display-name lang="pt">Band Sports HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
   <channel id="Boomerang FHD H.265">
     <display-name lang="pt">Boomerang FHD H.265</display-name>
     <url>http://www.clarotv.com.br.EK</url>
@@ -389,5 +393,265 @@
     <star-rating system="BR">
       <value>3</value>
     </star-rating>
+  </programme>
+  <programme start="20221109003000 -0300" stop="20221109014500 -0300" channel="Band Sports HD ³">
+    <title lang="pt">Liga Feminina de Futsal</title>
+    <desc lang="pt">As meninas do Taboão/Magnus enfrentam o Leoas da Serra. Assista essa partidaça ao vivo no BandSports! Já tem a sua torcida?(n)</desc>
+    <category lang="pt">Futebol de Salão</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109014500 -0300" stop="20221109021500 -0300" channel="Band Sports HD ³">
+    <title lang="pt">Programação BandSports</title>
+    <desc lang="pt">Criado para diversificar e melhorar a exibição das mais variadas modalidades, o BandSports traz eventos nacionais e internacionais, programas exclusivos e muito jornalismo. E tudo isso de um jeito diferente e único.(n)</desc>
+    <credits>
+      <director>Denis Gavazzi</director>
+    </credits>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109021500 -0300" stop="20221109034500 -0300" channel="Band Sports HD ³">
+    <title lang="pt">Encontro de Craques</title>
+    <desc lang="pt">Encontro de Craques traz o que há de melhor no esporte de forma irreverente e descontraída. Acompanhe aqui no BandSports.(n)</desc>
+    <credits>
+      <actor>Beetto Saad</actor>
+    </credits>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109034500 -0300" stop="20221109044500 -0300" channel="Band Sports HD ³">
+    <title lang="pt">Depois do Jogo</title>
+    <desc lang="pt">Após a bola rolar na rodada, entra em campo o Depois do Jogo. Gols, entrevistas pós jogos, personagens. Os destaques do nosso futebol.(n)</desc>
+    <credits>
+      <director>Denis Gavazzi</director>
+      <actor>Thomaz Rafael</actor>
+      <actor>Júlio Gomes</actor>
+    </credits>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109044500 -0300" stop="20221109053000 -0300" channel="Band Sports HD ³">
+    <title lang="pt">Resenha do Galinho</title>
+    <desc lang="pt">Resenha do Galinho é um programa de entrevistas comandado pelo craque Zico. Ele vai receber grandes nomes do futebol brasileiro como o técnico Dorival Júnior, o campeão mundial Branco e o zagueiro David Luiz.(n)</desc>
+    <credits>
+      <director>Denis Gavazzi</director>
+      <actor>Zico</actor>
+    </credits>
+    <category lang="pt">Entrevista</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109053000 -0300" stop="20221109060000 -0300" channel="Band Sports HD ³">
+    <title lang="pt">Depois do Jogo</title>
+    <desc lang="pt">Após a bola rolar na rodada, entra em campo o Depois do Jogo. Gols, entrevistas pós jogos, personagens. Os destaques do nosso futebol.(n)</desc>
+    <credits>
+      <director>Denis Gavazzi</director>
+      <actor>Thomaz Rafael</actor>
+      <actor>Júlio Gomes</actor>
+    </credits>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109060000 -0300" stop="20221109063000 -0300" channel="Band Sports HD ³">
+    <title lang="pt">Depois do Jogo</title>
+    <desc lang="pt">Após a bola rolar na rodada, entra em campo o Depois do Jogo. Gols, entrevistas pós jogos, personagens. Os destaques do nosso futebol.(n)</desc>
+    <credits>
+      <director>Denis Gavazzi</director>
+      <actor>Thomaz Rafael</actor>
+      <actor>Júlio Gomes</actor>
+    </credits>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109063000 -0300" stop="20221109073000 -0300" channel="Band Sports HD ³">
+    <title lang="pt">Esporte Total</title>
+    <desc lang="pt">Veja tudo que rola dos bastidores do futebol brasileiro e internacional. Além disso, placar, classificações e gols das competições nacionais e internacionais. E ainda um giro pela NBA e o melhor basquete do mundo.(n)</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109073000 -0300" stop="20221109090000 -0300" channel="Band Sports HD ³">
+    <title lang="pt">Encontro de Craques</title>
+    <desc lang="pt">Encontro de Craques traz o que há de melhor no esporte de forma irreverente e descontraída. Acompanhe aqui no BandSports.(n)</desc>
+    <credits>
+      <actor>Beetto Saad</actor>
+    </credits>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109090000 -0300" stop="20221109100000 -0300" channel="Band Sports HD ³">
+    <title lang="pt">Ace Bandsports</title>
+    <desc lang="pt">O programa é apresentado por especialistas que trazem os principais fatos do mundo do tênis nos circuitos mundiais da ATP e WTA. Matérias especiais, resultados, dicas de jogo e equipamentos para a prática do esporte.(n)</desc>
+    <credits>
+      <director>Denis Gavazzi</director>
+      <actor>Renata Saporito</actor>
+      <actor>Flávio Saretta</actor>
+    </credits>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109100000 -0300" stop="20221109110000 -0300" channel="Band Sports HD ³">
+    <title lang="pt">Viva Esporte</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Julio Cesar Bérgamo comanda o Viva o Esporte, programa sobre esporte, saúde e bem-estar com interatividade ao vivo com o telespectador.(n)</desc>
+    <credits>
+      <director>Denis Gavazzi</director>
+      <actor>Julio Cesar Bergamo</actor>
+    </credits>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109110000 -0300" stop="20221109120000 -0300" channel="Band Sports HD ³">
+    <title lang="pt">Primeiro Tempo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Comece o dia com notícias do mundo esportivo. Convidados famosos são recebidos para uma conversa descontraída. Além das informações atualizadas do esporte, o programa reserva um espaço para o noticiário geral.(n)</desc>
+    <credits>
+      <director>Denis Gavazzi</director>
+      <actor>Elia Junior</actor>
+    </credits>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109120000 -0300" stop="20221109140000 -0300" channel="Band Sports HD ³">
+    <title lang="pt">G4</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Mesa-redonda com um quarteto para lá de afiado. Nossos apresentadores vão debater e provocar o torcedor de futebol com muita elegância e equilíbrio.(n)</desc>
+    <credits>
+      <director>Denis Gavazzi</director>
+      <actor>Eduardo Tironi</actor>
+      <actor>Marília Ruiz</actor>
+      <actor>Arnaldo Ribeiro</actor>
+      <actor>Fábio Piperno</actor>
+    </credits>
+    <category lang="pt">Debate</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109140000 -0300" stop="20221109150000 -0300" channel="Band Sports HD ³">
+    <title lang="pt">Esporte Agora</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">O Esporte Agora é um telejornal esportivo que traz atualizações do mundo esportivo, com muita opinião.(n)</desc>
+    <credits>
+      <director>Denis Gavazzi</director>
+      <actor>Renata Saporito</actor>
+      <actor>Maurício Barros</actor>
+    </credits>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109150000 -0300" stop="20221109160000 -0300" channel="Band Sports HD ³">
+    <title lang="pt">Nascar Truck Series</title>
+    <desc lang="pt">A Camping World Truck Series é uma divisão da NASCAR que utiliza caminhonetes e você acompanha tudo com exclusividade aqui no BandSports.(n)</desc>
+    <category lang="pt">Automobilismo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109160000 -0300" stop="20221109162500 -0300" channel="Band Sports HD ³">
+    <title lang="pt">Pré-Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">O Pré-Jogo aciona repórteres e comentaristas para uma rodada de informações e análises das partidas prestes a começar e atualiza as chances de cada time.(n)</desc>
+    <credits>
+      <director>Denis Gavazzi</director>
+    </credits>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109162500 -0300" stop="20221109183000 -0300" channel="Band Sports HD ³">
+    <title lang="pt">Euroliga de Basquete</title>
+    <desc lang="pt">A EuroLiga, também conhecida como Turkish Airlines Euroleague por razões de patrocinio, é a competição máxima de clubes de basquetebol masculino da Europa.(n)</desc>
+    <category lang="pt">Basquete</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109183000 -0300" stop="20221109194500 -0300" channel="Band Sports HD ³">
+    <title lang="pt">Bola Rolando</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Acompanhe as notícias do futebol no Brasil e no mundo, com muita análise e debate só aqui no BandSports.(n)</desc>
+    <credits>
+      <director>Denis Gavazzi</director>
+      <actor>Cacá Fernando</actor>
+      <actor>Raí Monteiro</actor>
+      <actor>Ivan Drago</actor>
+      <actor>Paulo do Valle</actor>
+    </credits>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109194500 -0300" stop="20221109200000 -0300" channel="Band Sports HD ³">
+    <title lang="pt">Bandsports News</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Acompanhe as notícias esportivas mais relevantes no Brasil e no mundo só aqui no BandSports.(n)</desc>
+    <credits>
+      <director>Denis Gavazzi</director>
+    </credits>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109200000 -0300" stop="20221109213000 -0300" channel="Band Sports HD ³">
+    <title lang="pt">Supermotor</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">O jornalista Celso Miranda reúne um time de especialistas para passar a limpo tudo que acontece nas pistas, no mundo dos motores.(n)</desc>
+    <credits>
+      <director>Denis Gavazzi</director>
+      <actor>Celso Miranda</actor>
+    </credits>
+    <category lang="pt">Automobilismo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109213000 -0300" stop="20221109233000 -0300" channel="Band Sports HD ³">
+    <title lang="pt">Nascar Cup Series</title>
+    <desc lang="pt">A Nascar é a principal modalidade no automobilismo dos EUA e você acompanha com exclusividade na tela do BandSports!(n)</desc>
+    <category lang="pt">Automobilismo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109233000 -0300" stop="20221110003000 -0300" channel="Band Sports HD ³">
+    <title lang="pt">Depois do Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Após a bola rolar na rodada, entra em campo o Depois do Jogo. Gols, entrevistas pós jogos, personagens. Os destaques do nosso futebol.(n)</desc>
+    <credits>
+      <director>Denis Gavazzi</director>
+      <actor>Thomaz Rafael</actor>
+      <actor>Júlio Gomes</actor>
+    </credits>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
   </programme>
 </tv>
