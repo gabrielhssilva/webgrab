@@ -4,6 +4,10 @@
     <display-name lang="pt">A&amp;E FHD H.265</display-name>
     <url>http://www.clarotv.com.br.EK</url>
   </channel>
+  <channel id="Boomerang FHD H.265">
+    <display-name lang="pt">Boomerang FHD H.265</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
   <programme start="20221109005100 -0300" stop="20221109030000 -0300" channel="A&amp;E FHD H.265">
     <title lang="pt">Escobar \u2013 A Traição</title>
     <desc lang="pt">Em 1981, Virginia Vallejo, uma famosa jornalista colombiana, começa um envolvimento amoroso com o narcotraficante Pablo Escobar.(n)</desc>
