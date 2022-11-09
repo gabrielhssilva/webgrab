@@ -12,6 +12,18 @@
     <display-name lang="pt">Animal Planet FHD H.265</display-name>
     <url>http://www.clarotv.com.br.EK</url>
   </channel>
+  <channel id="Comedy Central FHD H.265">
+    <display-name lang="pt">Comedy Central FHD H.265</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Discovery Channel FHD H.265">
+    <display-name lang="pt">Discovery Channel FHD H.265</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Discovery Home Health FHD H.265">
+    <display-name lang="pt">Discovery Home Health FHD H.265</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
   <channel id="Band Sports HD ³">
     <display-name lang="pt">Band Sports HD ³</display-name>
     <url>http://www.clarotv.com.br.EK</url>
@@ -1007,6 +1019,1614 @@
     <rating system="BR">
       <value>16</value>
     </rating>
+  </programme>
+  <programme start="20221109001500 -0300" stop="20221109004000 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Já Chegamos?</title>
+    <desc lang="pt">Suzanne e Marilyn se reúnem para um fim de semana no spa para o Dia das Mães, mas o atrito logo surge entre elas.(n)</desc>
+    <credits>
+      <director>Ali LeRoi</director>
+      <actor>Keesha Sharp</actor>
+      <actor>Essence Atkins</actor>
+      <actor>Teala Dunn</actor>
+      <actor>Terry Crews</actor>
+      <actor>Coy Stewart</actor>
+      <actor>Christian Finnegan</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109004000 -0300" stop="20221109010500 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Já Chegamos?</title>
+    <desc lang="pt">Lindsey decide adotar uma dieta e estilo de vida vegano mas ela pode ter segundas intenções nessa decisão.(n)</desc>
+    <credits>
+      <director>Richard Correll</director>
+      <actor>Keesha Sharp</actor>
+      <actor>Essence Atkins</actor>
+      <actor>Teala Dunn</actor>
+      <actor>Terry Crews</actor>
+      <actor>Coy Stewart</actor>
+      <actor>Christian Finnegan</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109010500 -0300" stop="20221109012500 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Kenan &amp; Kel</title>
+    <desc lang="pt">Kenan desafia Kel a não beber refrigerante de laranja por uma semana. O perdedor terá de cantar o hino nacional na frente de todos vestindo uma camisola de seda.(n)</desc>
+    <credits>
+      <director>Kim Bass</director>
+      <director>Alan Rose</director>
+      <director>Kim Fields Freeman</director>
+      <actor>Kel Mitchell</actor>
+      <actor>Kenan Thompson</actor>
+      <actor>Ken Foree</actor>
+      <actor>Chris Edgerly</actor>
+      <actor>Kim Fields</actor>
+      <actor>Kevin Kopelow</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109012500 -0300" stop="20221109015000 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Kenan &amp; Kel</title>
+    <desc lang="pt">Kenan desafia Kel a não beber refrigerante de laranja por uma semana. O perdedor terá de cantar o hino nacional na frente de todos vestindo uma camisola de seda.(n)</desc>
+    <credits>
+      <director>Kim Bass</director>
+      <director>Alan Rose</director>
+      <director>Kim Fields Freeman</director>
+      <actor>Kel Mitchell</actor>
+      <actor>Kenan Thompson</actor>
+      <actor>Ken Foree</actor>
+      <actor>Chris Edgerly</actor>
+      <actor>Kim Fields</actor>
+      <actor>Kevin Kopelow</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109015000 -0300" stop="20221109022000 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">South Park</title>
+    <desc lang="pt">A grande caça aos ovos de Páscoa da cidade fica arriscada quando Cartman produz evidências em vídeo de uma misteriosa criatura que se esconde na floresta.(n)</desc>
+    <credits>
+      <director>Trey Parker</director>
+      <actor>Vozes de Trey Parker</actor>
+      <actor>Matt Stone</actor>
+      <actor>April Stewart</actor>
+      <actor>Adrien Beard</actor>
+      <actor>Mona Marshall</actor>
+    </credits>
+    <category lang="pt">Animação</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109022000 -0300" stop="20221109024500 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">South Park</title>
+    <desc lang="pt">Butters é vítima de um bullying improvável.(n)</desc>
+    <credits>
+      <director>Trey Parker</director>
+      <actor>Vozes de Trey Parker</actor>
+      <actor>Matt Stone</actor>
+      <actor>April Stewart</actor>
+      <actor>Mona Marshall</actor>
+      <actor>Donna Dooby</actor>
+    </credits>
+    <category lang="pt">Animação</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109024500 -0300" stop="20221109031000 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Ugly Americans</title>
+    <desc lang="pt">Mark perde o controle quando concorda em ser parceiro de Callie num ritual demoníaco antigo; Randall cuida de um robô confuso.(n)</desc>
+    <credits>
+      <director>Devin Clark</director>
+      <actor>Matt Oberg</actor>
+      <actor>Natasha Leggero</actor>
+      <actor>Randy Pearlstein</actor>
+      <actor>Kurt Metzger</actor>
+      <actor>Larry Murphy</actor>
+      <actor>Michael Leon Wooley</actor>
+    </credits>
+    <category lang="pt">Animação</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109031000 -0300" stop="20221109033500 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Ugly Americans</title>
+    <desc lang="pt">Mark perde o controle quando concorda em ser parceiro de Callie num ritual demoníaco antigo; Randall cuida de um robô confuso.(n)</desc>
+    <credits>
+      <director>Devin Clark</director>
+      <actor>Matt Oberg</actor>
+      <actor>Natasha Leggero</actor>
+      <actor>Randy Pearlstein</actor>
+      <actor>Kurt Metzger</actor>
+      <actor>Larry Murphy</actor>
+      <actor>Michael Leon Wooley</actor>
+    </credits>
+    <category lang="pt">Animação</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109033500 -0300" stop="20221109040000 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Idiotando</title>
+    <desc lang="pt">É a vez dos adolescentes passarem pelos nossos julgamentos! Bobagens e birras aos montes!(n)</desc>
+    <credits>
+      <director>Greg James</director>
+      <actor>Greg James</actor>
+      <actor>Federico Pesce</actor>
+      <actor>Beren Money</actor>
+      <actor>Warren Prentice</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20221109040000 -0300" stop="20221109042500 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Idiotando</title>
+    <desc lang="pt">E dessa vez vamos ver o quão longe pode chegar a burrice humana!(n)</desc>
+    <credits>
+      <director>Greg James</director>
+      <actor>Greg James</actor>
+      <actor>Federico Pesce</actor>
+      <actor>Beren Money</actor>
+      <actor>Warren Prentice</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20221109042500 -0300" stop="20221109045000 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Alternatino</title>
+    <desc lang="pt">Um garoto com uma doença terminal pede um desejo pouco convencional, a mãe de um homem e sua noiva se enfrentam por causa de uns tamales e Arturo enfrenta um grave obstáculo em seu novo relacionamento.(n)</desc>
+    <credits>
+      <director>Nicholas Jasenovec</director>
+      <actor>Arturo Castro</actor>
+      <actor>Chris Triana</actor>
+      <actor>Chet Siegel</actor>
+      <actor>Seaton Smith</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109045000 -0300" stop="20221109051500 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Harina</title>
+    <desc lang="pt">O Tenente Prieto e Ramírez são fugitivos da polícia. Sandra e sua filha Isabel se preparam para ir para os EUA quando são interrompidas pela campainha. É o Cancelador!(n)</desc>
+    <credits>
+      <director>Salvador Espinosa</director>
+      <actor>Verónica Bravo</actor>
+      <actor>Guillermo Villegas</actor>
+      <actor>Ana Gonzalez Bello</actor>
+      <actor>Lucero Trejo</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20221109051500 -0300" stop="20221109054000 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Ana</title>
+    <desc lang="pt">É o aniversário de 40 de Ana. Cheque, Chique e Choque compartilham espaço pela primeira vez. Ana passa o dia procurando um cachorro pelo parque e em um hospital. Depois que volta para casa, Ana consegue seu tão sonhado desejo.(n)</desc>
+    <credits>
+      <director>David Ruiz</director>
+      <director>Carlos Carrer</director>
+      <actor>Ana de la Reguera</actor>
+      <actor>Tina Romero</actor>
+      <actor>Andrés Almeida</actor>
+      <actor>Paulina Dávila</actor>
+      <actor>Carlos Miranda</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20221109054000 -0300" stop="20221109060000 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Homens?</title>
+    <desc lang="pt">Alê e seu Pai seguem a saga da prótese eterna. Gael e Alexandre discutem sobre trabalho. Natasha e Gustavo estreiam um brinquedo novo. Pedrinho surpreende nas histórias da Ásia e Pedro vai até um laboratório.(n)</desc>
+    <credits>
+      <director>Johnny Araújo</director>
+      <director>Gigi Soares</director>
+      <actor>Fábio Porchat</actor>
+      <actor>Gabriel Louchard</actor>
+      <actor>Miá Mello</actor>
+      <actor>Tereza Gonzalez</actor>
+      <actor>Raphael Logam</actor>
+      <actor>Rafael Portugal</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20221109060000 -0300" stop="20221109063000 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Batalha de Lip Sync</title>
+    <desc lang="pt">Artistas internacionais competem na melhor batalha de dublagem da televisão. Nesse episódio especial de Natal, Lip Sync Battle apresenta o duelo entre os cantores Cassadee Pope e Dustin Lynch.(n)</desc>
+    <credits>
+      <director>Beth McCarthy Mille</director>
+      <director>Ryan Polito</director>
+    </credits>
+    <category lang="pt">Game Show</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109063000 -0300" stop="20221109070000 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">PEN15</title>
+    <desc lang="pt">Anna e Maya estão bem longe do ponto onde começaram. Agora tudo o que elas querem é voltar para casa.(n)</desc>
+    <credits>
+      <director>Andrew DeYoung</director>
+      <director>Dan Longino</director>
+      <director>Sam Zvibleman</director>
+      <director>Anna Konkle</director>
+      <director>Daniel Gray Longino</director>
+      <director>Dan Login</director>
+      <actor>Maya Erskine</actor>
+      <actor>Anna Konkle</actor>
+      <actor>Taj Cross</actor>
+      <actor>Dan Logino</actor>
+      <actor>Mariana Torres</actor>
+      <actor>Flávia Saddy</actor>
+    </credits>
+    <category lang="pt">Humor</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109070000 -0300" stop="20221109073000 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">SuperMansion</title>
+    <desc lang="pt">O estado de saúde da Portia piora e os poderes de Zenith diminuem, deixando-a vulnerável ao vingativo tio Ridan.(n)</desc>
+    <credits>
+      <director>Nick Simotas</director>
+      <actor>Bryan Cranston</actor>
+      <actor>Heidi Gardner</actor>
+      <actor>Tucker Gilmore</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20221109073000 -0300" stop="20221109080000 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">One-Punch Man</title>
+    <desc lang="pt">Já faz três anos que Saitama se tornou herói, e ele se dá conta de que o público não sabe nada sobre ele.(n)</desc>
+    <credits>
+      <director>Chikara Sakurai</director>
+      <actor>Makoto Furukawa</actor>
+      <actor>Kaito Ishikawa</actor>
+      <actor>Max Mittelman</actor>
+    </credits>
+    <category lang="pt">Animação</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221109080000 -0300" stop="20221109082500 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Kenan &amp; Kel</title>
+    <desc lang="pt">Kenan entra em pânico quando a diretora de sua escola liga para sua casa para chamar seus pais à escola. Nervoso, ele contrata dois completos estranhos para se passar por seus pais.(n)</desc>
+    <credits>
+      <director>Kim Bass</director>
+      <director>Alan Rose</director>
+      <director>Kim Fields Freeman</director>
+      <actor>Kel Mitchell</actor>
+      <actor>Kenan Thompson</actor>
+      <actor>Ken Foree</actor>
+      <actor>Chris Edgerly</actor>
+      <actor>Kim Fields</actor>
+      <actor>Kevin Kopelow</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109082500 -0300" stop="20221109085000 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Kenan &amp; Kel</title>
+    <desc lang="pt">É o Dia de Ação de Graças e Roger preparou um jantar com um peru fantástico. Mas, quando ninguém está na cozinha, Kel não consegue resistir á tentação e devora o peru inteiro em questão de minutos!(n)</desc>
+    <credits>
+      <director>Kim Bass</director>
+      <director>Alan Rose</director>
+      <director>Kim Fields Freeman</director>
+      <actor>Kel Mitchell</actor>
+      <actor>Kenan Thompson</actor>
+      <actor>Ken Foree</actor>
+      <actor>Chris Edgerly</actor>
+      <actor>Kim Fields</actor>
+      <actor>Kevin Kopelow</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109085000 -0300" stop="20221109091500 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Kenan &amp; Kel</title>
+    <desc lang="pt">Uma nova professora substituta chega à escola e Kel tem certeza que ela está apaixonada por Kenan. Ele não acredita muito no início, mas Kel insiste na ideia e começa a convencer Kenan de que isso pode ser verdade.(n)</desc>
+    <credits>
+      <director>Kim Bass</director>
+      <director>Alan Rose</director>
+      <director>Kim Fields Freeman</director>
+      <actor>Kel Mitchell</actor>
+      <actor>Kenan Thompson</actor>
+      <actor>Ken Foree</actor>
+      <actor>Chris Edgerly</actor>
+      <actor>Kim Fields</actor>
+      <actor>Kevin Kopelow</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109091500 -0300" stop="20221109094000 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Ridículos</title>
+    <desc lang="pt">Em um episódio totalmente novo de Ridiculousness, Rob, Chanel e Steelo ficam sem fio em um TREINAMENTO COM AIRPODS, vigiam suas costas em PERDENDO A DIVERSÃO e batem forte na loja durante o MERCADO CAÓTICO.(n)</desc>
+    <credits>
+      <director>Michael Simon</director>
+      <director>Marco Mancini</director>
+      <actor>Rob Dyrdek</actor>
+      <actor>Sterling Brim</actor>
+      <actor>Chelsea Chanel Dudley</actor>
+      <actor>Stefan Gordy</actor>
+    </credits>
+    <category lang="pt">Humor</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221109094000 -0300" stop="20221109100500 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Ridículos</title>
+    <desc lang="pt">Em um episódio totalmente novo de Ridiculousness, Rob, Chanel e Steelo veem o copo meio cheio com o LADO POSITIVO, conhecem algumas MÃESPOSAS rígidas e aprendem a SENTIR O CLIMA.(n)</desc>
+    <credits>
+      <director>Michael Simon</director>
+      <director>Marco Mancini</director>
+      <actor>Rob Dyrdek</actor>
+      <actor>Sterling Brim</actor>
+      <actor>Chelsea Chanel Dudley</actor>
+      <actor>Stefan Gordy</actor>
+    </credits>
+    <category lang="pt">Humor</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221109100500 -0300" stop="20221109103000 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Comedy Central Stand Up</title>
+    <desc lang="pt">Igor Guimarães e Daniel Murillo apresentam seus repertórios hilários para uma audiência ao vivo e abordam, com muito humor, temas recorrentes da vida cotidiana.(n)</desc>
+    <credits>
+      <director>Joana Mazzucchelli</director>
+      <director>Michelle Albert</director>
+      <actor>Thiago Ventura</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20221109103000 -0300" stop="20221109105500 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Comedy Central Stand Up</title>
+    <desc lang="pt">Rodrigo Marques e Ed Gama apresentam seus repertórios hilários para uma audiência ao vivo e abordam, com muito humor, temas recorrentes da vida cotidiana.(n)</desc>
+    <credits>
+      <director>Joana Mazzucchelli</director>
+      <director>Michelle Albert</director>
+      <actor>Thiago Ventura</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20221109105500 -0300" stop="20221109112000 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Os Goldbergs</title>
+    <desc lang="pt">Com a chegada da primavera, Barry convence Erica e o JTP a imprudentes férias com desconto. Beverly reluta quando Adam cogita tirar uma folga depois da escola.(n)</desc>
+    <credits>
+      <director>Adam Goldberg</director>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Sean Giambrone</actor>
+      <actor>Troy Gentile</actor>
+      <actor>Hayley Orrantia</actor>
+      <actor>George Segal</actor>
+      <actor>Alex Jennings</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20221109112000 -0300" stop="20221109114500 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Os Goldbergs</title>
+    <desc lang="pt">Rival de trabalho e nêmesis \.(n)</desc>
+    <credits>
+      <director>Adam Goldberg</director>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Sean Giambrone</actor>
+      <actor>Troy Gentile</actor>
+      <actor>Hayley Orrantia</actor>
+      <actor>George Segal</actor>
+      <actor>Alex Jennings</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20221109114500 -0300" stop="20221109121000 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Já Chegamos?</title>
+    <desc lang="pt">Nick se preocupa com sua mortalidade e cria uma lista com atividades excessivamente perigosas.(n)</desc>
+    <credits>
+      <director>Ali LeRoi</director>
+      <actor>Keesha Sharp</actor>
+      <actor>Essence Atkins</actor>
+      <actor>Teala Dunn</actor>
+      <actor>Terry Crews</actor>
+      <actor>Coy Stewart</actor>
+      <actor>Christian Finnegan</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109121000 -0300" stop="20221109123500 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Já Chegamos?</title>
+    <desc lang="pt">Nick conhece um ator famoso, que o ajuda na preparação para um papel. Enquanto isso, Kevin se prepara para o concurso \.(n)</desc>
+    <credits>
+      <director>Ali LeRoi</director>
+      <actor>Keesha Sharp</actor>
+      <actor>Essence Atkins</actor>
+      <actor>Teala Dunn</actor>
+      <actor>Terry Crews</actor>
+      <actor>Coy Stewart</actor>
+      <actor>Christian Finnegan</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109123500 -0300" stop="20221109133500 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">A Culpa é do Cabral</title>
+    <desc lang="pt">A Culpa do Cabral recebe Diogo Defante para discutir os rumos no planeta Terra. Já o especialista Junior Chicó conduz uma disputa de outro planeta.(n)</desc>
+    <credits>
+      <director>Fernando Viudez</director>
+      <director>Fabio Oc</director>
+      <actor>Cambota Fabiano</actor>
+      <actor>Viana Nando</actor>
+      <actor>Ventura Thiago</actor>
+      <actor>Portugal Rafael</actor>
+      <actor>Marques Rodrigo</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20221109133500 -0300" stop="20221109134500 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Food is My Lingua</title>
+    <desc lang="pt">Ademara recebe as criatodras de conteúdo e humoristas Gabô e Raquel real para testar seus conhecimentos sobre a Grécia e reproduzir uma receita tradicional do país.(n)</desc>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20221109134500 -0300" stop="20221109140500 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Kenan &amp; Kel</title>
+    <desc lang="pt">Kenan acaba marcando três encontros com três garotas diferentes para o mesmo dia, e revezar entre eles sem ser descoberto pelas garotas.(n)</desc>
+    <credits>
+      <director>Kim Bass</director>
+      <director>Alan Rose</director>
+      <director>Kim Fields Freeman</director>
+      <actor>Kel Mitchell</actor>
+      <actor>Kenan Thompson</actor>
+      <actor>Ken Foree</actor>
+      <actor>Chris Edgerly</actor>
+      <actor>Kim Fields</actor>
+      <actor>Kevin Kopelow</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109140500 -0300" stop="20221109143000 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Kenan &amp; Kel</title>
+    <desc lang="pt">Kenan suspeita que é adotado quando se dá conta de que seus pais não tem nenhuma foto ou vídeo de sua infância guardados. Assim, o garoto decide buscar uma cópia de sua certidão de nascimento e descobrir toda a verdade.(n)</desc>
+    <credits>
+      <director>Kim Bass</director>
+      <director>Alan Rose</director>
+      <director>Kim Fields Freeman</director>
+      <actor>Kel Mitchell</actor>
+      <actor>Kenan Thompson</actor>
+      <actor>Ken Foree</actor>
+      <actor>Chris Edgerly</actor>
+      <actor>Kim Fields</actor>
+      <actor>Kevin Kopelow</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109143000 -0300" stop="20221109145500 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Sabrina, a Aprendiz de Feiticeira</title>
+    <desc lang="pt">Com a tia Vesta, Raquel Welch mostra a Sabrina como a outra metade do Outro Reino vive.(n)</desc>
+    <credits>
+      <actor>Melissa Joan Hart</actor>
+      <actor>Nick Bakay</actor>
+      <actor>Caroline Rhea</actor>
+      <actor>Beth Broderick</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109145500 -0300" stop="20221109152000 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">A Boa Vizinhança</title>
+    <desc lang="pt">Calvin vai à um jogo de hockey com Dave e gosta da experiência, então Malcolm e Marty começam a se perguntar se Calvin não está ficando parecido demais com o vizinho.(n)</desc>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <actor>Cedric the Entertainer</actor>
+      <actor>Max Greenfield</actor>
+      <actor>Sheaun McKinney</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221109152000 -0300" stop="20221109154500 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">A Boa Vizinhança</title>
+    <desc lang="pt">Quando Calvin decide filmar um comercial de TV para seu negócio, ele convoca Dave, Tina e Marty para ajudar, mas não demora muito para que diferenças criativas emerjam.(n)</desc>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <actor>Cedric the Entertainer</actor>
+      <actor>Max Greenfield</actor>
+      <actor>Sheaun McKinney</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221109154500 -0300" stop="20221109161000 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+    <desc lang="pt">Quando Rochelle pede uma cópia da sua certidão de nascimento, percebe que, na verdade, ela é um ano mais nova do que pensava e decide começar a viver a vida com uma nova atitude mais jovial.(n)</desc>
+    <credits>
+      <director>Oz Scott</director>
+      <actor>Chris Rock</actor>
+      <actor>Terry Crews</actor>
+      <actor>Tichina Arnold</actor>
+      <actor>Tequan Richmond</actor>
+      <actor>Imani Hakim</actor>
+      <actor>Vincent Martella</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109161000 -0300" stop="20221109163500 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+    <desc lang="pt">Chris e Greg decidem se juntar à equipe de luta para obter uma jaqueta esportiva para impressionar as mulheres.(n)</desc>
+    <credits>
+      <director>Jerry Levine</director>
+      <actor>Chris Rock</actor>
+      <actor>Terry Crews</actor>
+      <actor>Tichina Arnold</actor>
+      <actor>Tequan Richmond</actor>
+      <actor>Imani Hakim</actor>
+      <actor>Vincent Martella</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109163500 -0300" stop="20221109170000 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <desc lang="pt">Hilary diz para o Will que, como coordenador talentoso, ele precisa encontrar convidados melhores para o programa dela. O Will resolve chamar um jurado que foi dispensado do julgamento do Philip.(n)</desc>
+    <credits>
+      <director>Shelley Jensen</director>
+      <actor>Will Smith</actor>
+      <actor>James Avery</actor>
+      <actor>Janet Hubert-Whitten</actor>
+      <actor>Alfonso Ribeiro</actor>
+      <actor>Karyn Parsons</actor>
+      <actor>Tatyana Ali</actor>
+    </credits>
+    <category lang="pt">Humor</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109170000 -0300" stop="20221109172500 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <desc lang="pt">Will e o Carlton vão a um encontro duplo com duas belas mulheres, e tudo parece ir bem - até que o namorado de uma delas aparece.(n)</desc>
+    <credits>
+      <director>Madeline Cripe</director>
+      <actor>Will Smith</actor>
+      <actor>James Avery</actor>
+      <actor>Janet Hubert-Whitten</actor>
+      <actor>Alfonso Ribeiro</actor>
+      <actor>Karyn Parsons</actor>
+      <actor>Tatyana Ali</actor>
+    </credits>
+    <category lang="pt">Humor</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109172500 -0300" stop="20221109175000 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <desc lang="pt">Os Banks instalam um novo sistema de interfones na sua casa, mas obviamente, o Will e o Carlton precisam testá-lo à sua própria maneira, e acabam ouvindo a Ashley e os seus amigos falando sobre sexo.(n)</desc>
+    <credits>
+      <director>Shelley Jensen</director>
+      <actor>Will Smith</actor>
+      <actor>James Avery</actor>
+      <actor>Janet Hubert-Whitten</actor>
+      <actor>Alfonso Ribeiro</actor>
+      <actor>Karyn Parsons</actor>
+      <actor>Tatyana Ali</actor>
+    </credits>
+    <category lang="pt">Humor</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109175000 -0300" stop="20221109181500 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <desc lang="pt">É o aniversário do Carlton. O pai dele dá uma viagem à Las Vegas de presente para ele e para o Will. O Carlton fica viciado em jogos e perde todo o dinheiro e as passagens para voltar para casa.(n)</desc>
+    <credits>
+      <director>Shelley Jensen</director>
+      <actor>Will Smith</actor>
+      <actor>James Avery</actor>
+      <actor>Janet Hubert-Whitten</actor>
+      <actor>Alfonso Ribeiro</actor>
+      <actor>Karyn Parsons</actor>
+      <actor>Tatyana Ali</actor>
+    </credits>
+    <category lang="pt">Humor</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109181500 -0300" stop="20221109184000 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Sabrina, a Aprendiz de Feiticeira</title>
+    <desc lang="pt">O trabalho de Sabrina como assistente de um mágico está com os dias contados quando ela faz o chefe desaparecer acidentalmente.(n)</desc>
+    <credits>
+      <actor>Melissa Joan Hart</actor>
+      <actor>Nick Bakay</actor>
+      <actor>Caroline Rhea</actor>
+      <actor>Beth Broderick</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109184000 -0300" stop="20221109190500 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Kenan &amp; Kel</title>
+    <desc lang="pt">A preciosa cacatua de Roger é deixada sob os cuidados de Kenan e Kel quando seus pais saem de viagem, mas o pássaro acaba morrendo. Agora, Kenan e Kel precisam fazer de tudo para conseguir uma nova cacatua.(n)</desc>
+    <credits>
+      <director>Kim Bass</director>
+      <director>Alan Rose</director>
+      <director>Kim Fields Freeman</director>
+      <actor>Kel Mitchell</actor>
+      <actor>Kenan Thompson</actor>
+      <actor>Ken Foree</actor>
+      <actor>Vanessa Baden</actor>
+      <actor>Dan Frischman</actor>
+      <actor>Teal Marchande</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109190500 -0300" stop="20221109193000 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <desc lang="pt">Philip desiste de levar a Vivian para fazer aulas de ioga, e Will se oferece para ser o seu treinador. Ele conhece uma mulher grávida que é uma jornalista esportiva.(n)</desc>
+    <credits>
+      <director>Shelley Jensen</director>
+      <actor>Will Smith</actor>
+      <actor>James Avery</actor>
+      <actor>Janet Hubert-Whitten</actor>
+      <actor>Alfonso Ribeiro</actor>
+      <actor>Karyn Parsons</actor>
+      <actor>Tatyana Ali</actor>
+    </credits>
+    <category lang="pt">Humor</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109193000 -0300" stop="20221109195500 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <desc lang="pt">Carlton fica triste quando a Paula termina o namoro. Ela vai atrás do Will e eles começam a sair juntos. Após fazer uma ultrassonografia, Philip e Vivian pedem ao Geoffrey para escondê-la.(n)</desc>
+    <credits>
+      <director>Michael Peters</director>
+      <actor>Will Smith</actor>
+      <actor>James Avery</actor>
+      <actor>Janet Hubert-Whitten</actor>
+      <actor>Alfonso Ribeiro</actor>
+      <actor>Karyn Parsons</actor>
+      <actor>Tatyana Ali</actor>
+    </credits>
+    <category lang="pt">Humor</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109195500 -0300" stop="20221109202000 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Já Chegamos?</title>
+    <desc lang="pt">Quando Suzanne suspeita que a nova paixão da escola de Lindsey é gay, Nick tenta provar que ele não é.(n)</desc>
+    <credits>
+      <director>Ali LeRoi</director>
+      <actor>Keesha Sharp</actor>
+      <actor>Essence Atkins</actor>
+      <actor>Teala Dunn</actor>
+      <actor>Terry Crews</actor>
+      <actor>Coy Stewart</actor>
+      <actor>Christian Finnegan</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109202000 -0300" stop="20221109204500 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">A Boa Vizinhança</title>
+    <desc lang="pt">Quando Grover entra no time juvenil de basquete do Calvin, a Gemma entra em desentendimento com alguns dos métodos de treinamento do seu vizinho.(n)</desc>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <actor>Cedric the Entertainer</actor>
+      <actor>Max Greenfield</actor>
+      <actor>Sheaun McKinney</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221109204500 -0300" stop="20221109211000 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">A Boa Vizinhança</title>
+    <desc lang="pt">Quando Tina recebe notícias inesperadas, Calvin, Dave e Gemma a encorajam a aceitar esse novo capítulo com um salto de fé - literalmente - levando-a para saltar de paraquedas.(n)</desc>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <actor>Cedric the Entertainer</actor>
+      <actor>Max Greenfield</actor>
+      <actor>Sheaun McKinney</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221109211000 -0300" stop="20221109213500 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+    <desc lang="pt">Chris e Greg percebem que eles precisarão arranjar identidades falsas para conseguir entrar no show dos Fat Boys, permitido apenas para maiores de 18 anos. Rochelle planeja uma festa surpresa para Julius.(n)</desc>
+    <credits>
+      <director>Debbie Allen</director>
+      <actor>Chris Rock</actor>
+      <actor>Terry Crews</actor>
+      <actor>Tichina Arnold</actor>
+      <actor>Tequan Richmond</actor>
+      <actor>Imani Hakim</actor>
+      <actor>Vincent Martella</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109213500 -0300" stop="20221109220000 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+    <desc lang="pt">Chris sabe que conseguir bons resultados o ajudará a entrar na faculdade, então ele decide se matar estudando para o teste de aptidão. Isso é complicado quando Rochelle pede a ele para participar de um evento social.(n)</desc>
+    <credits>
+      <director>Keith Truesdell</director>
+      <actor>Chris Rock</actor>
+      <actor>Terry Crews</actor>
+      <actor>Tichina Arnold</actor>
+      <actor>Tequan Richmond</actor>
+      <actor>Imani Hakim</actor>
+      <actor>Vincent Martella</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109220000 -0300" stop="20221109222500 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+    <desc lang="pt">Julius começa a trabalhar como Papai Noel numa loja. Chris é seu duende assistente. Chris fica muito doente e é internado. No hospital, conhece um misterioso homem chamado Kris.(n)</desc>
+    <credits>
+      <director>Victor Nelli Jr</director>
+      <actor>Chris Rock</actor>
+      <actor>Terry Crews</actor>
+      <actor>Tichina Arnold</actor>
+      <actor>Tequan Richmond</actor>
+      <actor>Imani Hakim</actor>
+      <actor>Vincent Martella</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109222500 -0300" stop="20221109225500 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+    <desc lang="pt">Para uma aula sobre as responsabilidades que os pais devem ter, Chris e Greg recebem um ovo cada um para cuidarem como se fossem seus próprios filhos, mas a tarefa se mostra bastante difícil.(n)</desc>
+    <credits>
+      <director>Jerry Levine</director>
+      <actor>Chris Rock</actor>
+      <actor>Terry Crews</actor>
+      <actor>Tichina Arnold</actor>
+      <actor>Tequan Richmond</actor>
+      <actor>Imani Hakim</actor>
+      <actor>Vincent Martella</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109225500 -0300" stop="20221109232000 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+    <desc lang="pt">Com a intenção de ganhar mais respeito dos seus colegas de turma e fazer com que Caruso pare de tratá-lo como um saco de pancadas, Chris se candidata para ser inspetor nos corredores da escola.(n)</desc>
+    <credits>
+      <director>Tamra Davis</director>
+      <actor>Chris Rock</actor>
+      <actor>Terry Crews</actor>
+      <actor>Tichina Arnold</actor>
+      <actor>Tequan Richmond</actor>
+      <actor>Imani Hakim</actor>
+      <actor>Vincent Martella</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109232000 -0300" stop="20221109235000 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+    <desc lang="pt">Quando Chris, por distração, aparece na escola em um \.(n)</desc>
+    <credits>
+      <director>Jerry Levine</director>
+      <actor>Chris Rock</actor>
+      <actor>Terry Crews</actor>
+      <actor>Tichina Arnold</actor>
+      <actor>Tequan Richmond</actor>
+      <actor>Imani Hakim</actor>
+      <actor>Vincent Martella</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109235000 -0300" stop="20221110002000 -0300" channel="Comedy Central FHD H.265">
+    <title lang="pt">South Park</title>
+    <desc lang="pt">Aventura na tirolesa dos garotos se transforma em um aterrorizante teste de sobrevivência.(n)</desc>
+    <credits>
+      <director>Trey Parker</director>
+      <actor>Vozes de Trey Parker</actor>
+      <actor>Matt Stone</actor>
+      <actor>April Stewart</actor>
+      <actor>Mona Marshall</actor>
+      <actor>Donna Dooby</actor>
+    </credits>
+    <category lang="pt">Animação</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109000100 -0300" stop="20221109005600 -0300" channel="Discovery Channel FHD H.265">
+    <title lang="pt">No Rastro do Pé-Grande</title>
+    <desc lang="pt">Bryce convoca um hipnólogo para revelar as lembranças de uma testemunha do Pé do Grande, e descobre um novo detalhe intrigante sobre a fera. O restante da equipe descobre possíveis evidências na península Olympic.(n)</desc>
+    <credits>
+      <director>Ronny Rose</director>
+      <actor>Erik Thompson</actor>
+      <actor>Mireya Mayor</actor>
+      <actor>Bryce Johnson</actor>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20221109005600 -0300" stop="20221109014400 -0300" channel="Discovery Channel FHD H.265">
+    <title lang="pt">Rumo ao Desconhecido</title>
+    <desc lang="pt">Josh entra em túneis abandonados à procura de obras de arte roubadas pelo Terceiro Reich. O diário de um oficial da SS de alta patente leva à busca de toneladas de ouro pilhado. Josh procura uma máquina nazista enterrada.(n)</desc>
+    <credits>
+      <director>Douglas Segal</director>
+      <actor>Josh Gates</actor>
+      <actor>Alex Bailey</actor>
+      <actor>Geoffrey Gray</actor>
+      <actor>Zahi Hawass</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109014400 -0300" stop="20221109023200 -0300" channel="Discovery Channel FHD H.265">
+    <title lang="pt">Hora Josh Gates</title>
+    <desc lang="pt">Josh entra no espírito natalino com o ator Peter Billingsley, de “Uma História de Natal”, a atriz Judy Greer, de “Tio Frank”, e Reginald VelJohnson, de “Duro de Matar”. Além disso, visita a vila do Papai Noel.(n)</desc>
+    <credits>
+      <director>Tony Sam</director>
+      <actor>Josh Gates</actor>
+      <actor>Tony Sam</actor>
+    </credits>
+    <category lang="pt">Cultural</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20221109023200 -0300" stop="20221109031600 -0300" channel="Discovery Channel FHD H.265">
+    <title lang="pt">Ed Stafford, o Sobrevivente</title>
+    <desc lang="pt">A 2 mil metros de altitude, nas savanas altas de Ruanda, Ed tenta viver em harmonia com os maiores animais da África. Ele está cercado por elefantes e girafas, mas o alimento é escasso.(n)</desc>
+    <credits>
+      <director>Matt Brandon</director>
+      <actor>Ed Stafford</actor>
+    </credits>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221109031600 -0300" stop="20221109044800 -0300" channel="Discovery Channel FHD H.265">
+    <title lang="pt">Largados e Pelados</title>
+    <desc lang="pt">Quatro participantes – uma dupla na casa dos 50 anos e outra com 20 e poucos – são largados no deserto de Sonora. Diante de onças-pardas, monstros-de-gila e um calor implacável, a experiência ou a juventude será mais útil?(n)</desc>
+    <credits>
+      <director>Joseph Boyle</director>
+      <actor>Angel Rodriguez</actor>
+      <actor>Nicole Terry</actor>
+      <actor>Michael Brown</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109044800 -0300" stop="20221109053600 -0300" channel="Discovery Channel FHD H.265">
+    <title lang="pt">Largados e Pelados</title>
+    <desc lang="pt">Um ex atirador dos fuzileiros navais e uma mãe do Mississippi tentam superar o desafio de 21 dias em um pântano assombrado da Colômbia. A umidade extrema, os insetos e uma infecção provam ser mais difíceis do que o imaginado.(n)</desc>
+    <credits>
+      <director>Joseph Boyle</director>
+      <actor>Angel Rodriguez</actor>
+      <actor>Nicole Terry</actor>
+      <actor>Michael Brown</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109053600 -0300" stop="20221109060000 -0300" channel="Discovery Channel FHD H.265">
+    <title lang="pt">Em Busca de Relíquias</title>
+    <desc lang="pt">O serviço mais sujo que a empresa já encarou, com um desafio novo a cada ambiente. Mas com grandes riscos, há grandes recompensas. Utensílios de cozinha, colecionáveis de cerveja e um toca-discos notável.(n)</desc>
+    <credits>
+      <director>Anthony Vescio</director>
+      <actor>Anthony Vescio</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109060000 -0300" stop="20221109063000 -0300" channel="Discovery Channel FHD H.265">
+    <title lang="pt">Encontro Selvagem com Coyote Peterson</title>
+    <desc lang="pt">O especialista em animais Coyote Peterson percorre o interior da Austrália em busca da piton gigante, uma cobra não-venenosa, mas ainda mortal.(n)</desc>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20221109063000 -0300" stop="20221109081100 -0300" channel="Discovery Channel FHD H.265">
+    <title lang="pt">Quilos Mortais</title>
+    <desc lang="pt">Isaac ajudou a criar os irmãos depois que sua mãe sofreu um derrame debilitante. Ao aprender a cozinhar para a família, ele começou a comer para se consolar. Agora, para não morrer, ele precisa mudar.(n)</desc>
+    <credits>
+      <director>Leslie Appleyard</director>
+      <actor>Justin McSwain</actor>
+      <actor>Younan Nowzaradan</actor>
+      <actor>Gina Krasley</actor>
+      <actor>Erik Luna</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109081100 -0300" stop="20221109090100 -0300" channel="Discovery Channel FHD H.265">
+    <title lang="pt">Sala de Emergência: Casos Bizarros</title>
+    <desc lang="pt">O dr. Crawford precisa remover um prego farpado que penetrou no antebraço de um paciente. O dr. Mellick precisa ser meticuloso para remover um objeto inesperado de um olho: um salto de sapato.(n)</desc>
+    <category lang="pt">Medicina</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221109090100 -0300" stop="20221109095200 -0300" channel="Discovery Channel FHD H.265">
+    <title lang="pt">Me Salva Dessa!</title>
+    <desc lang="pt">A Dra. Ruby Rose e seus colegas enfrentam casos de emergência que exigem delicadeza, incluindo a retirada de um estilhaço de metal de um globo ocular e extrair um inseto alojado no ouvido de um garoto.(n)</desc>
+    <credits>
+      <director>Eric Begley</director>
+      <actor>Ruby Rose</actor>
+    </credits>
+    <category lang="pt">Medicina</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221109095200 -0300" stop="20221109104700 -0300" channel="Discovery Channel FHD H.265">
+    <title lang="pt">Vida Remota</title>
+    <desc lang="pt">Nas montanhas Smoky, os Raneys visitam uma casa castigada pelo vento e a ponto de desabar. Eles correm para reforçar as estruturas e estabelecer um negócio viável antes da próxima grande tempestade.(n)</desc>
+    <credits>
+      <director>Tim Eagan</director>
+      <actor>Marty Raney</actor>
+      <actor>Matt Raney</actor>
+      <actor>Misty Raney</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221109104700 -0300" stop="20221109114200 -0300" channel="Discovery Channel FHD H.265">
+    <title lang="pt">Desafio em Dose Dupla: Brasil</title>
+    <desc lang="pt">Leo Rocha e Coronel Leite partem de um acidente de kitesurf em um dos canais do Delta do Parnaíba, único delta no continente americano a desaguar diretamente no oceano.(n)</desc>
+    <credits>
+      <director>Rodrigo Astiz</director>
+      <actor>Coronel Leite</actor>
+      <actor>Léo Rocha</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221109114200 -0300" stop="20221109132900 -0300" channel="Discovery Channel FHD H.265">
+    <title lang="pt">Quilos Mortais</title>
+    <desc lang="pt">Um vidas de abusos deixou Michael ansioso e com medo de sair de casa. Agora, com a ajuda de sua esposa, ele deve seguir o programa do Dr. Now para não morrer por causa da comida.(n)</desc>
+    <credits>
+      <director>Leslie Appleyard</director>
+      <actor>Younan Nowzaradan</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109132900 -0300" stop="20221109140000 -0300" channel="Discovery Channel FHD H.265">
+    <title lang="pt">Um Novo Corpo, Uma Nova Vida</title>
+    <desc lang="pt">Allison Vest revela o mundo da anaplastologia enquanto cria próteses para pessoas que não têm partes do corpo. Entre outros, ela ajuda um homem que perdeu o nariz e uma sobrevivente de câncer que busca novos mamilos.(n)</desc>
+    <credits>
+      <director>Greg Deist</director>
+      <actor>Allison Vest</actor>
+    </credits>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221109140000 -0300" stop="20221109151900 -0300" channel="Discovery Channel FHD H.265">
+    <title lang="pt">Me Salva Dessa!</title>
+    <desc lang="pt">A Dra. Ruby Rose e seus colegas tratam um paciente cuja mão sofreu múltiplas lacerações, um doloroso abcesso dentário que precisa ser drenado e retiram um inseto enorme do ouvido de uma pessoa.(n)</desc>
+    <credits>
+      <director>Eric Begley</director>
+      <actor>Ruby Rose</actor>
+    </credits>
+    <category lang="pt">Medicina</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221109151900 -0300" stop="20221109161400 -0300" channel="Discovery Channel FHD H.265">
+    <title lang="pt">Casal Selvagem</title>
+    <desc lang="pt">A aventura do casal Hawke esbarra em um incidente grave: Ruth desmaia sob o calor inclemente de um deserto mexicano.(n)</desc>
+    <credits>
+      <director>Mykel Hawke Pierce</director>
+      <actor>Mykel Hawke Pierce</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221109161400 -0300" stop="20221109170600 -0300" channel="Discovery Channel FHD H.265">
+    <title lang="pt">Ed Stafford, o Sobrevivente</title>
+    <desc lang="pt">Ed Stafford é abandonado por dez dias em uma área montanhosa do Triângulo Dourado, na Ásia. Ele terá que se virar sem ferramentas e sem roupas.(n)</desc>
+    <credits>
+      <director>Matt Brandon</director>
+      <actor>Ed Stafford</actor>
+    </credits>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221109170600 -0300" stop="20221109175800 -0300" channel="Discovery Channel FHD H.265">
+    <title lang="pt">Largados e Pelados: A Tribo</title>
+    <desc lang="pt">Depois de se retirar do grupo, Kate encara a ira africana. Desesperadamente faminto, Bulent consegue pegar uma presa com as próprias mãos. Makani terá que ignorar seus valores veganos para não morrer de fome.(n)</desc>
+    <credits>
+      <director>Aaron Simard</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109175800 -0300" stop="20221109185000 -0300" channel="Discovery Channel FHD H.265">
+    <title lang="pt">Desafio em Dose Dupla</title>
+    <desc lang="pt">No Pantanal brasileiro, a maior área alagada do mundo, Cody e Dave caem em águas infestadas de piranhas para tentar voltar à civilização. A melhor chance de conseguir resgate é percorrer um rio.(n)</desc>
+    <credits>
+      <director>Jordan J. Mallari</director>
+      <actor>Dave Canterbury</actor>
+      <actor>Paul Christie</actor>
+      <actor>Cody Lundin</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221109185000 -0300" stop="20221109203300 -0300" channel="Discovery Channel FHD H.265">
+    <title lang="pt">Quilos Mortais</title>
+    <desc lang="pt">A compulsão alimentar de Cillas atrapalha seu relacionamento com a noiva, Jessica, e as três filhas dela. Se não mudar seus hábitos, ele poderá perder as garotas ou a própria vida.(n)</desc>
+    <credits>
+      <director>Leslie Appleyard</director>
+      <actor>Younan Nowzaradan</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109203300 -0300" stop="20221109221900 -0300" channel="Discovery Channel FHD H.265">
+    <title lang="pt">Quilos Mortais</title>
+    <desc lang="pt">O marido de Shannon a ama do jeito que ela é, mas isso não a ajuda. Ela tem 317 quilos e vive em sua cama. O doutor Now precisa ajudar o casal a romper um ciclo para que Shannon consiga passar dos 40 anos.(n)</desc>
+    <credits>
+      <director>Leslie Appleyard</director>
+      <actor>Younan Nowzaradan</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109221900 -0300" stop="20221109231100 -0300" channel="Discovery Channel FHD H.265">
+    <title lang="pt">Um Novo Corpo, Uma Nova Vida</title>
+    <desc lang="pt">Uma mulher que perdeu as duas mãos sonha em segurar seu filho de novo. Depois de um acidente de carro, Daniel recorre a Allison para ter uma vida nova. Uma ex-paciente retorna quando seu cachorro rói sua orelha protética.(n)</desc>
+    <credits>
+      <director>Greg Deist</director>
+      <actor>Allison Vest</actor>
+    </credits>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221109231100 -0300" stop="20221110000600 -0300" channel="Discovery Channel FHD H.265">
+    <title lang="pt">Me Salva Dessa!</title>
+    <desc lang="pt">A Dra. Ruby Rose e seus colegas são como detetives e precisam seguir as evidências para solucionar seus mistérios, incluindo um homem que desaparece durante o tratamento, estranhos fragmentos incrustados em uma ferida.(n)</desc>
+    <credits>
+      <director>Eric Begley</director>
+      <actor>Ruby Rose</actor>
+    </credits>
+    <category lang="pt">Medicina</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221109001100 -0300" stop="20221109010800 -0300" channel="Discovery Home Health FHD H.265">
+    <title lang="pt">Dra Cathy: Devolvendo A Autoestima</title>
+    <desc lang="pt">Vamos acompanhar um dia na vida de uma ONG chamada Surgeons for Little Lives, que leva experiência e recursos a pacientes carentes da África do Sul. A doutora Cathy une esforços com um ginecologista incrível.(n)</desc>
+    <credits>
+      <director>Damien Brown</director>
+      <actor>Cathy Davies</actor>
+    </credits>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20221109010800 -0300" stop="20221109020000 -0300" channel="Discovery Home Health FHD H.265">
+    <title lang="pt">Dra Cathy: Devolvendo A Autoestima</title>
+    <desc lang="pt">Muitos pacientes desanimam quando desenvolvem algum problema dermatológico visível. Mas Luegen, que tem um nódulo gigante no rosto, possui uma energia incrível e é uma inspiração para outros pacientes como ele.(n)</desc>
+    <credits>
+      <director>Andrew Hofmeyr</director>
+      <actor>Cathy Davies</actor>
+    </credits>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20221109020000 -0300" stop="20221109033600 -0300" channel="Discovery Home Health FHD H.265">
+    <title lang="pt">Quilos Mortais</title>
+    <desc lang="pt">Lindsey parece ter tudo, mas a compulsão alimentar ameaça arruinar sua vida. Quando ela inicia a jornada de perda de peso, seu marido pode não ser capaz de lhe dar o apoio necessário.(n)</desc>
+    <credits>
+      <director>Leslie Appleyard</director>
+      <actor>Justin McSwain</actor>
+      <actor>Younan Nowzaradan</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221109033600 -0300" stop="20221109040000 -0300" channel="Discovery Home Health FHD H.265">
+    <title lang="pt">Uma Família de Peso</title>
+    <desc lang="pt">Os primos Drew, Naomi e Chitoka têm obesidade mórbida. Se não fizerem a cirurgia bariátrica, elas correm risco de vida. Para inspirá-las a emagrecer para o procedimento, a matriarca Beverly se submete à cirurgia.(n)</desc>
+    <credits>
+      <director>Gary C. Warren</director>
+      <actor>Charles Procter</actor>
+      <actor>Shavonne Owens</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221109040000 -0300" stop="20221109051200 -0300" channel="Discovery Home Health FHD H.265">
+    <title lang="pt">Dra Cathy: Devolvendo A Autoestima</title>
+    <desc lang="pt">Vamos acompanhar um dia na vida de uma ONG chamada Surgeons for Little Lives, que leva experiência e recursos a pacientes carentes da África do Sul. A doutora Cathy une esforços com um ginecologista incrível.(n)</desc>
+    <credits>
+      <director>Damien Brown</director>
+      <actor>Cathy Davies</actor>
+    </credits>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20221109051200 -0300" stop="20221109060000 -0300" channel="Discovery Home Health FHD H.265">
+    <title lang="pt">Ame-a ou Deixe-a</title>
+    <desc lang="pt">Uma jovem família de quatro pessoas se apaixonou pelo espaço aparentemente abundante de sua casa, mas à medida que as crianças crescem, a casa começa a parecer muito menor.(n)</desc>
+    <credits>
+      <director>Theone Masoner</director>
+      <actor>Hilary Farr</actor>
+      <actor>David Visentin</actor>
+      <actor>Jason Byrd</actor>
+    </credits>
+    <category lang="pt">Comportamento</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109060000 -0300" stop="20221109073800 -0300" channel="Discovery Home Health FHD H.265">
+    <title lang="pt">90 Dias para Casar: Antes dos 90 Dias</title>
+    <desc lang="pt">A ex-namorada de Gino revela a Jasmine informações estarrecedoras. Ella trama um plano para finalmente conhecer Johnny. Alina espera que Caleb supere seu segredo. Mike tenta mudar para conquistar Ximena.(n)</desc>
+    <credits>
+      <director>Marciano Burbano</director>
+      <actor>Shaun Robinson</actor>
+    </credits>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109073800 -0300" stop="20221109091800 -0300" channel="Discovery Home Health FHD H.265">
+    <title lang="pt">Troca De Esposas Brasil</title>
+    <desc lang="pt">Neste reality, o telespectador acompanha a experiência de uma esposa ou um marido ao sair de casa e cumprir o desafio de morar com uma outra família por uma semana.(n)</desc>
+    <credits>
+      <director>Rodrigo Carell</director>
+      <actor>Ticiane Pinheiro</actor>
+    </credits>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20221109091800 -0300" stop="20221109100800 -0300" channel="Discovery Home Health FHD H.265">
+    <title lang="pt">O Vestido Ideal</title>
+    <desc lang="pt">Alex procura um vestido sexy e brilhante. Jaqueline quer algo exclusivo. E Emily precisa que seu vestido seja lavado.(n)</desc>
+    <credits>
+      <director>Anna Park</director>
+      <actor>Randy Fenoli</actor>
+    </credits>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109100800 -0300" stop="20221109110400 -0300" channel="Discovery Home Health FHD H.265">
+    <title lang="pt">O Vestido Ideal</title>
+    <desc lang="pt">Jennifer quer sair do seu uniforme de taekwondo, mas será que ela conseguirá convencer a mãe dela? Madison é obrigada a escolher um lado quando as opiniões de suas mães conflitam. Rebecca monta num tubarão mecânico até o altar.(n)</desc>
+    <credits>
+      <director>Anna Park</director>
+      <actor>Randy Fenoli</actor>
+    </credits>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109110400 -0300" stop="20221109120000 -0300" channel="Discovery Home Health FHD H.265">
+    <title lang="pt">Irmãos à Obra</title>
+    <sub-title lang="pt">Compra e Venda</sub-title>
+    <desc lang="pt">Doze anos depois de se mudar para uma casa de três quartos, Gus e Denise têm três filhos e o imóvel está em mau estado. Eles precisam reformá-lo para comprar uma casa que atenda às suas necessidades.(n)</desc>
+    <credits>
+      <director>Michael Sheehan</director>
+      <actor>Jodi Krangle</actor>
+      <actor>Drew Scott</actor>
+      <actor>Jonathan Silver Scott</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20221109120000 -0300" stop="20221109125800 -0300" channel="Discovery Home Health FHD H.265">
+    <title lang="pt">Irmãos à Obra</title>
+    <desc lang="pt">Indecisos e cansados de pagar aluguel, Kristi e Jay decidem comprar uma casa nova. Os irmãos os ajudam a encontrar um imóvel com preço razoável que pode ser reformado em pouco tempo.(n)</desc>
+    <credits>
+      <director>Cheryl Zalameda</director>
+      <actor>Drew ScottJonathan Silver Scott</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20221109125800 -0300" stop="20221109135700 -0300" channel="Discovery Home Health FHD H.265">
+    <title lang="pt">Reforma Em Família Com Karen e Mina</title>
+    <desc lang="pt">Karen e Mina encaram sua última casa na rua Talbott, mas o dinheiro é contado para este projeto caro. Elas trabalham para maximizar a decoração, mas os interessados podem não reagir bem ao tema “casa de fazenda francesa”.(n)</desc>
+    <credits>
+      <director>Chuck Stream</director>
+      <actor>Mina Starsiak</actor>
+      <actor>Tad Starsiak</actor>
+      <actor>Austin Aynes</actor>
+    </credits>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109135700 -0300" stop="20221109145500 -0300" channel="Discovery Home Health FHD H.265">
+    <title lang="pt">100 Dias Para Morar: Começando Do Zero</title>
+    <desc lang="pt">Depois de construir para centenas de clientes, Brian e Mika finalmente projetam a própria casa, mas entrar em um acordo sobre o estilo será difícil. Eles terão que fazer concessões para combinar os gostos de cada um.(n)</desc>
+    <credits>
+      <director>Hashim Williams</director>
+      <actor>Brian Kleinschmidt</actor>
+      <actor>Mika Kleinschmidt</actor>
+    </credits>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109145500 -0300" stop="20221109155400 -0300" channel="Discovery Home Health FHD H.265">
+    <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
+    <desc lang="pt">Uma família ativa adora ter espaço para esportes em seu quintal, mas o teto baixo e o layout estranho no interior atrapalham. Drew e Jonathan querem fazer uma reforma moderna para deixar a casa perfeita.(n)</desc>
+    <credits>
+      <director>Jim MacPherson</director>
+      <actor>Drew Scott</actor>
+      <actor>Jonathan Silver Scott</actor>
+      <actor>Meghan McCarthy</actor>
+    </credits>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109155400 -0300" stop="20221109165200 -0300" channel="Discovery Home Health FHD H.265">
+    <title lang="pt">Do Velho Ao Novo</title>
+    <desc lang="pt">Andrew e Brittany Chapman decidem comprar sua primeira casa juntos, um imóvel com bastante espaço para seus dois cães. Chip e Joanna têm grandes planos para a reforma e uma surpresa ainda maior para os cãezinhos dos Chapmans.(n)</desc>
+    <credits>
+      <director>Jim Berger</director>
+      <actor>Joanna Gaines</actor>
+      <actor>Chip Gaines</actor>
+      <actor>Dustin Anderson</actor>
+    </credits>
+    <category lang="pt">Comportamento</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109165200 -0300" stop="20221109184800 -0300" channel="Discovery Home Health FHD H.265">
+    <title lang="pt">Quilos Mortais: Como Eles Estão Agora?</title>
+    <desc lang="pt">Há três anos, Milla pesava mais de 340 quilos e vivia acamada. Depois de perder mais de 200 quilos e remover dois linfedemas, seu maior desafio é caminhar sem a bengala para que possa cuidar adequadamente dos cinco filhos.(n)</desc>
+    <credits>
+      <director>Jonathan Nowzaradan</director>
+      <actor>Younan Nowzaradan</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221109184800 -0300" stop="20221109193900 -0300" channel="Discovery Home Health FHD H.265">
+    <title lang="pt">A Família Derrico</title>
+    <desc lang="pt">Os Derricos fazem um pedido à Câmara Municipal para construir o seu negócio. Karen e Deon planejam um aniversário duplo. Quando Karen solta uma bomba sobre o futuro deles na Carolina do Sul, ela e Deon entram em conflito.(n)</desc>
+    <credits>
+      <director>Sara Chamberlain</director>
+      <actor>Deon Derrico</actor>
+      <actor>Karen Derrico</actor>
+    </credits>
+    <category lang="pt">Comportamento</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109193900 -0300" stop="20221109200600 -0300" channel="Discovery Home Health FHD H.265">
+    <title lang="pt">Troca de Esposas</title>
+    <desc lang="pt">Uma mãe permissiva e tolerante troca de vida com uma mãe russa extremamente regrada em Troca de Esposas.(n)</desc>
+    <credits>
+      <director>Stephen O'leary</director>
+      <actor>John Schwab</actor>
+      <actor>Brian Lee</actor>
+      <actor>Robert Robinson</actor>
+    </credits>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221109200600 -0300" stop="20221109222200 -0300" channel="Discovery Home Health FHD H.265">
+    <title lang="pt">90 Dias para Casar: Antes dos 90 Dias</title>
+    <desc lang="pt">Jasmine explode quando lê as mensagens de Gino para a ex. Ben tenta localizar Mahogany. Memphis pede que Hamza assine um contrato pré-nupcial. Mike pensa em pedir Ximena em casamento. Caleb e Alina podem se tornar exclusivos.(n)</desc>
+    <credits>
+      <director>Brian Spoor</director>
+      <actor>Shaun Robinson</actor>
+    </credits>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109222200 -0300" stop="20221109231800 -0300" channel="Discovery Home Health FHD H.265">
+    <title lang="pt">90 Dias na Cama: Antes dos 90 dias</title>
+    <desc lang="pt">Os casais favoritos de “90 Dias para Casar” abrem as portas de sua casa para o público e assistem juntos ao episódio de hoje. Tim e Veronica, Brandon e Julia, Molly e Kelly, Kenny e Armando não poupam nenhum comentário.(n)</desc>
+    <credits>
+      <director>Marciano Burbano</director>
+      <actor>Darcey Silva</actor>
+      <actor>Usman Umar</actor>
+      <actor>Angela Deem</actor>
+    </credits>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221109231800 -0300" stop="20221110001400 -0300" channel="Discovery Home Health FHD H.265">
+    <title lang="pt">90 Dias para Casar: Do Outro Lado</title>
+    <desc lang="pt">Ellie concorda em ficar e ajudar Victor a reconstruir sua casa. Alina descobre mais sobre as atividades de Steven nas redes sociais. Armando inventa desculpas para seu pai. Ari e Bini recebem notícias sobre seu filho.(n)</desc>
+    <credits>
+      <director>Laurie Ulster</director>
+      <actor>Jenny Slatten</actor>
+      <actor>Sumit Singh</actor>
+      <actor>Ariela Weinberg</actor>
+    </credits>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
   </programme>
   <programme start="20221109003000 -0300" stop="20221109014500 -0300" channel="Band Sports HD ³">
     <title lang="pt">Liga Feminina de Futsal</title>
