@@ -4,6 +4,14 @@
     <display-name lang="pt">A&amp;E FHD H.265</display-name>
     <url>http://www.clarotv.com.br.EK</url>
   </channel>
+  <channel id="AMC FHD H.265">
+    <display-name lang="pt">AMC FHD H.265</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Animal Planet FHD H.265">
+    <display-name lang="pt">Animal Planet FHD H.265</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
   <channel id="Band Sports HD ³">
     <display-name lang="pt">Band Sports HD ³</display-name>
     <url>http://www.clarotv.com.br.EK</url>
@@ -393,6 +401,612 @@
     <star-rating system="BR">
       <value>3</value>
     </star-rating>
+  </programme>
+  <programme start="20221109011500 -0300" stop="20221109032000 -0300" channel="AMC FHD H.265">
+    <title lang="pt">Stargate</title>
+    <desc lang="pt">Egiptólogo é convocado para decifrar hieróglifos e descobre que a mensagem é de extraterrestres que decifrada abre portal no espaço rumo ao desconhecido.(n)</desc>
+    <credits>
+      <director>Roland Emmerich</director>
+      <actor>Kurt Russel</actor>
+      <actor>Jaye Davidson</actor>
+      <actor>James Spader</actor>
+      <actor>Alexis Cruz</actor>
+      <actor>Viveca Lindfors</actor>
+      <actor>Mili Avital</actor>
+    </credits>
+    <category lang="pt">Ficção</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109032000 -0300" stop="20221109053000 -0300" channel="AMC FHD H.265">
+    <title lang="pt">O Poder E A Lei</title>
+    <desc lang="pt">Um advogado de defesa é contratado por um rico agente imobiliário que é acusado de agredir uma prostituta. O homem afirma que a mulher está tentando tirar dinheiro dele.(n)</desc>
+    <credits>
+      <director>Brad Furman</director>
+      <actor>Mattew Macconaughet</actor>
+      <actor>Marisa Tomei</actor>
+    </credits>
+    <category lang="pt">Suspense</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20221109053000 -0300" stop="20221109060000 -0300" channel="AMC FHD H.265">
+    <title lang="pt">Planet Action</title>
+    <desc lang="pt">Planet Action é uma série de 25 minutos em ritmo acelerado que leva você até a borda do seu assento. De tiroteios com cowboys a carros explodindo e monstros rugindo.(n)</desc>
+    <credits>
+      <director>Putul Verma</director>
+      <actor>Dawn Wilson</actor>
+    </credits>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221109060000 -0300" stop="20221109063000 -0300" channel="AMC FHD H.265">
+    <title lang="pt">Planet Action</title>
+    <desc lang="pt">Planet Action é uma série de 25 minutos em ritmo acelerado que leva você até a borda do seu assento. De tiroteios com cowboys a carros explodindo e monstros rugindo.(n)</desc>
+    <credits>
+      <director>Putul Verma</director>
+      <actor>Dawn Wilson</actor>
+    </credits>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221109063000 -0300" stop="20221109070000 -0300" channel="AMC FHD H.265">
+    <title lang="pt">Planet Action</title>
+    <desc lang="pt">Planet Action é uma série de 25 minutos em ritmo acelerado que leva você até a borda do seu assento. De tiroteios com cowboys a carros explodindo e monstros rugindo.(n)</desc>
+    <credits>
+      <director>Putul Verma</director>
+      <actor>Dawn Wilson</actor>
+    </credits>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221109070000 -0300" stop="20221109073000 -0300" channel="AMC FHD H.265">
+    <title lang="pt">Planet Action</title>
+    <desc lang="pt">Planet Action é uma série de 25 minutos em ritmo acelerado que leva você até a borda do seu assento. De tiroteios com cowboys a carros explodindo e monstros rugindo.(n)</desc>
+    <credits>
+      <director>Putul Verma</director>
+      <actor>Dawn Wilson</actor>
+    </credits>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221109073000 -0300" stop="20221109080000 -0300" channel="AMC FHD H.265">
+    <title lang="pt">Planet Action</title>
+    <desc lang="pt">Planet Action é uma série de 25 minutos em ritmo acelerado que leva você até a borda do seu assento. De tiroteios com cowboys a carros explodindo e monstros rugindo.(n)</desc>
+    <credits>
+      <director>Putul Verma</director>
+      <actor>Dawn Wilson</actor>
+    </credits>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221109080000 -0300" stop="20221109083000 -0300" channel="AMC FHD H.265">
+    <title lang="pt">Planet Action</title>
+    <desc lang="pt">Planet Action é uma série de 25 minutos em ritmo acelerado que leva você até a borda do seu assento. De tiroteios com cowboys a carros explodindo e monstros rugindo.(n)</desc>
+    <credits>
+      <director>Putul Verma</director>
+      <actor>Dawn Wilson</actor>
+    </credits>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221109083000 -0300" stop="20221109090000 -0300" channel="AMC FHD H.265">
+    <title lang="pt">Planet Action</title>
+    <desc lang="pt">Planet Action é uma série de 25 minutos em ritmo acelerado que leva você até a borda do seu assento. De tiroteios com cowboys a carros explodindo e monstros rugindo.(n)</desc>
+    <credits>
+      <director>Putul Verma</director>
+      <actor>Dawn Wilson</actor>
+    </credits>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221109090000 -0300" stop="20221109093000 -0300" channel="AMC FHD H.265">
+    <title lang="pt">Planet Action</title>
+    <desc lang="pt">Planet Action é uma série de 25 minutos em ritmo acelerado que leva você até a borda do seu assento. De tiroteios com cowboys a carros explodindo e monstros rugindo.(n)</desc>
+    <credits>
+      <director>Putul Verma</director>
+      <actor>Dawn Wilson</actor>
+    </credits>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221109093000 -0300" stop="20221109100000 -0300" channel="AMC FHD H.265">
+    <title lang="pt">Planet Action</title>
+    <desc lang="pt">Planet Action é uma série de 25 minutos em ritmo acelerado que leva você até a borda do seu assento. De tiroteios com cowboys a carros explodindo e monstros rugindo.(n)</desc>
+    <credits>
+      <director>Putul Verma</director>
+      <actor>Dawn Wilson</actor>
+    </credits>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221109100000 -0300" stop="20221109102500 -0300" channel="AMC FHD H.265">
+    <title lang="pt">Planet Action</title>
+    <desc lang="pt">Planet Action é uma série de 25 minutos em ritmo acelerado que leva você até a borda do seu assento. De tiroteios com cowboys a carros explodindo e monstros rugindo.(n)</desc>
+    <credits>
+      <director>Putul Verma</director>
+      <actor>Dawn Wilson</actor>
+    </credits>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221109102500 -0300" stop="20221109123500 -0300" channel="AMC FHD H.265">
+    <title lang="pt">Stargate</title>
+    <desc lang="pt">Egiptólogo é convocado para decifrar hieróglifos e descobre que a mensagem é de extraterrestres que decifrada abre portal no espaço rumo ao desconhecido.(n)</desc>
+    <credits>
+      <director>Roland Emmerich</director>
+      <actor>Kurt Russel</actor>
+      <actor>Jaye Davidson</actor>
+      <actor>James Spader</actor>
+      <actor>Alexis Cruz</actor>
+      <actor>Viveca Lindfors</actor>
+      <actor>Mili Avital</actor>
+    </credits>
+    <category lang="pt">Ficção</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109123500 -0300" stop="20221109143500 -0300" channel="AMC FHD H.265">
+    <title lang="pt">Espelho, Espelho Meu</title>
+    <desc lang="pt">Uma rainha má rouba o controle de um reino e uma princesa exilada conta com a ajuda de sete rebeldes engenhosos para reconquistar seu direito de primogenitura.(n)</desc>
+    <credits>
+      <director>Tarsem Singh</director>
+      <actor>Lily Collins</actor>
+      <actor>Julia Roberts</actor>
+      <actor>Armie Hammer</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109143500 -0300" stop="20221109162000 -0300" channel="AMC FHD H.265">
+    <title lang="pt">Sou Espião</title>
+    <desc lang="pt">O agente Alex Scott e o campeão mundial de boxe Kelly Robinson se unem para recuperar o sofisticado avião F-22, que caiu nas mãos de um contrabandista.(n)</desc>
+    <credits>
+      <director>Betty Thomas</director>
+      <actor>Eddie Murphy</actor>
+      <actor>Owen Wilson</actor>
+      <actor>Famke Janssen</actor>
+      <actor>Malcolm McDowell</actor>
+      <actor>Gary Cole</actor>
+      <actor>Viv Leacock</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109162000 -0300" stop="20221109191500 -0300" channel="AMC FHD H.265">
+    <title lang="pt">O Hobbit: Uma Jornada Inesperada</title>
+    <desc lang="pt">O hobbit Bilbo Bolseiro é convocado pelo mago Gandalf a embarcar na aventura que mudará a história da Terra-Média. Ao ajudar um grupo de anões guerreiros a retomarem seu reinado, Bilbo estará a caminho do precioso anel.(n)</desc>
+    <credits>
+      <director>Peter Jackson</director>
+      <actor>Martin Freeman</actor>
+      <actor>Ian McKellen</actor>
+      <actor>Richard Armitage</actor>
+      <actor>Ken Stott</actor>
+      <actor>Graham McTavish</actor>
+      <actor>William Kircher</actor>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109191500 -0300" stop="20221109220000 -0300" channel="AMC FHD H.265">
+    <title lang="pt">O Hobbit: A Desolação de Smaug</title>
+    <desc lang="pt">Bilbo Bolseiro, Gandalf e a Companhia de Thorin seguem em direção à Montanha Solitária, lar do temido dragão Smaug. Ao mesmo tempo, Gandalf se preocupa com uma força sombria que surge na Terra Média.(n)</desc>
+    <credits>
+      <director>Peter Jackson</director>
+      <actor>Martin Freeman</actor>
+      <actor>Benedict Cumberbatch</actor>
+      <actor>Cate Blanchett</actor>
+      <actor>Evangeline Lilly</actor>
+      <actor>Ian McKellen</actor>
+      <actor>Orlando Bloom</actor>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221109220000 -0300" stop="20221110003000 -0300" channel="AMC FHD H.265">
+    <title lang="pt">O Hobbit: A Batalha dos Cinco Exércitos</title>
+    <desc lang="pt">Após o dragão Smaug ser expulso de Erebor, o arqueiro Bard consegue derrotá-lo. Agora, Bilbo, Gandalf, Thorin Escudo de Carvalho e sua companhia de anões precisam enfrentar elfos e orcs na Batalha dos Cinco Exércitos.(n)</desc>
+    <credits>
+      <director>Peter Jackson</director>
+      <actor>Ian McKellen</actor>
+      <actor>Martin Freeman</actor>
+      <actor>Richard Armitage</actor>
+      <actor>Ken Stott</actor>
+      <actor>Graham McTavish</actor>
+      <actor>James Nesbitt</actor>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109000400 -0300" stop="20221109003300 -0300" channel="Animal Planet FHD H.265">
+    <title lang="pt">Como Peixe Fora d´Água</title>
+    <desc lang="pt">Eric enfrenta correntes marítimas e tubarões para caçar lesmas-do-mar e observa asquerosos esconderijos de enguias.(n)</desc>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221109003300 -0300" stop="20221109010200 -0300" channel="Animal Planet FHD H.265">
+    <title lang="pt">Como Peixe Fora d´Água</title>
+    <desc lang="pt">De caiaque, Eric invade a área dominada pelo tubarão-branco, na costa do Cabo Cod, para pescar atum. O que poderia dar errado? Depois, ele mergulha para caçar lagostas.(n)</desc>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221109010200 -0300" stop="20221109015000 -0300" channel="Animal Planet FHD H.265">
+    <title lang="pt">Pesca Mortal</title>
+    <desc lang="pt">Jake e sua sobrinha posicionam covos onde seus ancestrais pescavam nos anos 1930. Johnathan arrisca perder toda a pesca quando se aventura em água doce.(n)</desc>
+    <credits>
+      <actor>Scott Campbell Jr</actor>
+      <actor>Jake Anderson</actor>
+      <actor>Bill Wichrowski</actor>
+      <actor>Josh Harris</actor>
+      <actor>Casey McManus</actor>
+      <actor>Joe Gomez</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109015000 -0300" stop="20221109023800 -0300" channel="Animal Planet FHD H.265">
+    <title lang="pt">Desvendando os Oceanos com Jeremy Wade</title>
+    <desc lang="pt">Jeremy Wade explora uma nova descoberta que pode revelar a verdade sobre a Batalha de Áccio, uma das derrotas mais intrigantes da História.(n)</desc>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221109023800 -0300" stop="20221109032200 -0300" channel="Animal Planet FHD H.265">
+    <title lang="pt">O Mistério do Triângulo das Bermudas</title>
+    <desc lang="pt">Novas evidências podem explicar um misterioso encontro com um OVNI no Triângulo das Bermudas. Usando tecnologia moderna e as últimas descobertas submarinas, uma equipe investiga se alienígenas visitaram esse local incônico.(n)</desc>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20221109032200 -0300" stop="20221109034800 -0300" channel="Animal Planet FHD H.265">
+    <title lang="pt">Vida No Azul</title>
+    <desc lang="pt">Muitos seres marinhos são capazes de nadar grandes distâncias. Descubra os motivos que fazem com que alguns dos grandes viajantes dos oceanos precisem voltar a determinados locais em certas fases de sua vida.(n)</desc>
+    <credits>
+      <director>João Paulo Krajewski</director>
+    </credits>
+    <category lang="pt">Ecologia</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109034800 -0300" stop="20221109041400 -0300" channel="Animal Planet FHD H.265">
+    <title lang="pt">Vida No Azul</title>
+    <desc lang="pt">Os ambientes marinhos trazem inúmeras oportunidades para a vida se desenvolver e se dispersar no mar. Mas, será que existe chance para a vida marinha florescer e se diversificar numa pequena e isolada rocha?(n)</desc>
+    <credits>
+      <director>João Paulo Krajewski</director>
+    </credits>
+    <category lang="pt">Ecologia</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109041400 -0300" stop="20221109050600 -0300" channel="Animal Planet FHD H.265">
+    <title lang="pt">Com Água Até o Pescoço</title>
+    <desc lang="pt">A Las Vegas Coin Laundry encomenda um aquário que impressione seus clientes, construído no formato de uma máquina de lavar. Um optometrista quer um mundo subaquático que encante o olhar de seus pacientes.(n)</desc>
+    <credits>
+      <actor>Frankie DiLuzio</actor>
+      <actor>Wayde King</actor>
+      <actor>Brett Raymer</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109050600 -0300" stop="20221109053300 -0300" channel="Animal Planet FHD H.265">
+    <title lang="pt">Mistérios da Natureza</title>
+    <desc lang="pt">Você já se perguntou como um pássaro pode cantar sem usar a voz? Ou como um polvo pode simplesmente desaparecer dentro de um aquário? Será que estamos lidando com dois dos maiores ilusionistas da natureza?(n)</desc>
+    <category lang="pt">Ecologia</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109053300 -0300" stop="20221109060000 -0300" channel="Animal Planet FHD H.265">
+    <title lang="pt">Mistérios da Natureza</title>
+    <desc lang="pt">Que animais invadem milhares de carros todos os anos? Como as formigas formam uma ponte de 16 metros usando apenas seus corpos? Descubra as respostas neste episódio.(n)</desc>
+    <category lang="pt">Ecologia</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109060000 -0300" stop="20221109065200 -0300" channel="Animal Planet FHD H.265">
+    <title lang="pt">Pesca Mortal</title>
+    <desc lang="pt">Jake e sua sobrinha posicionam covos onde seus ancestrais pescavam nos anos 1930. Johnathan arrisca perder toda a pesca quando se aventura em água doce.(n)</desc>
+    <credits>
+      <actor>Scott Campbell Jr</actor>
+      <actor>Jake Anderson</actor>
+      <actor>Bill Wichrowski</actor>
+      <actor>Josh Harris</actor>
+      <actor>Casey McManus</actor>
+      <actor>Joe Gomez</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109065200 -0300" stop="20221109074400 -0300" channel="Animal Planet FHD H.265">
+    <title lang="pt">Desvendando os Oceanos com Jeremy Wade</title>
+    <desc lang="pt">Jeremy Wade explora uma nova descoberta que pode revelar a verdade sobre a Batalha de Áccio, uma das derrotas mais intrigantes da História.(n)</desc>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221109074400 -0300" stop="20221109083400 -0300" channel="Animal Planet FHD H.265">
+    <title lang="pt">O Mistério do Triângulo das Bermudas</title>
+    <desc lang="pt">Novas evidências podem explicar um misterioso encontro com um OVNI no Triângulo das Bermudas. Usando tecnologia moderna e as últimas descobertas submarinas, uma equipe investiga se alienígenas visitaram esse local incônico.(n)</desc>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20221109083400 -0300" stop="20221109090200 -0300" channel="Animal Planet FHD H.265">
+    <title lang="pt">Vida No Azul</title>
+    <desc lang="pt">Muitos seres marinhos são capazes de nadar grandes distâncias. Descubra os motivos que fazem com que alguns dos grandes viajantes dos oceanos precisem voltar a determinados locais em certas fases de sua vida.(n)</desc>
+    <credits>
+      <director>João Paulo Krajewski</director>
+    </credits>
+    <category lang="pt">Ecologia</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109090200 -0300" stop="20221109093000 -0300" channel="Animal Planet FHD H.265">
+    <title lang="pt">Vida No Azul</title>
+    <desc lang="pt">Os ambientes marinhos trazem inúmeras oportunidades para a vida se desenvolver e se dispersar no mar. Mas, será que existe chance para a vida marinha florescer e se diversificar numa pequena e isolada rocha?(n)</desc>
+    <credits>
+      <director>João Paulo Krajewski</director>
+    </credits>
+    <category lang="pt">Ecologia</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109093000 -0300" stop="20221109102600 -0300" channel="Animal Planet FHD H.265">
+    <title lang="pt">Piscinas Incríveis</title>
+    <desc lang="pt">A equipe transforma o projeto de um lago em um oásis a céu aberto para uma família e seus peixes em Siesta Key. Eles transformam uma velha piscina em um reservatório natural conectado ao novo lago.(n)</desc>
+    <credits>
+      <director>Vin Di Bona</director>
+      <actor>Jane Werley</actor>
+      <actor>Lucas Congdon</actor>
+      <actor>John Messner</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109102600 -0300" stop="20221109112600 -0300" channel="Animal Planet FHD H.265">
+    <title lang="pt">Em Busca do Pé-Grande</title>
+    <desc lang="pt">Os especialistas vão até a Pensilvânia para encontrar adolescentes que podem ter filmado um pé-grande enquanto andavam de cart.(n)</desc>
+    <credits>
+      <director>Brad Kuhlman</director>
+      <actor>Cliff Barackman</actor>
+      <actor>Ken Scott</actor>
+      <actor>Matt Moneymaker</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221109112600 -0300" stop="20221109122700 -0300" channel="Animal Planet FHD H.265">
+    <title lang="pt">Perdido na Amazônia</title>
+    <desc lang="pt">Frank aceita o desafio do jogador de futebol Dani Alves e viaja para a floresta amazônica para descobrir animais selvagens e organizar uma partida entre crianças de duas tribos.(n)</desc>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109122700 -0300" stop="20221109132700 -0300" channel="Animal Planet FHD H.265">
+    <title lang="pt">Monstros do Rio</title>
+    <desc lang="pt">No coração da América Central, se esconde um assassino do tamanho de um homem. Jeremy Wade vai reaprender tudo o que sabia sobre pescaria na tentativa de capturar este esquivo monstro do rio.(n)</desc>
+    <credits>
+      <director>Clare Dornan</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109132700 -0300" stop="20221109142900 -0300" channel="Animal Planet FHD H.265">
+    <title lang="pt">Lendas Selvagens</title>
+    <desc lang="pt">Em 2001, Nova Delhi foi dominada pelo terror quando uma criatura híbrida, meio homem, meio animal, atravessou telhados e atacou moradores. Mungo tenta desvendar o mistério do Homem Macaco.(n)</desc>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20221109142900 -0300" stop="20221109153000 -0300" channel="Animal Planet FHD H.265">
+    <title lang="pt">Encontros com Monstros</title>
+    <desc lang="pt">Steve vai ao México para aprender mais sobre o tubarão-branco. Ela sai da segurança da jaula de mergulho e se aproxima do animal.(n)</desc>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221109153000 -0300" stop="20221109163200 -0300" channel="Animal Planet FHD H.265">
+    <title lang="pt">Ilhas Selvagens</title>
+    <desc lang="pt">O biólogo e especialista em predadores Dave Salmoni viaja a uma ilha montanhosa no noroeste do Pacífico, lar de um número enorme de ursos.(n)</desc>
+    <credits>
+      <director>David Carr</director>
+      <actor>Ryan Mill</actor>
+      <actor>Jeremy Whalen</actor>
+      <actor>Cork Graham</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221109163200 -0300" stop="20221109170200 -0300" channel="Animal Planet FHD H.265">
+    <title lang="pt">Pântano Perigoso</title>
+    <desc lang="pt">Stephen Keszey planeja comprar mais crocodilos na esperança de salvar os negócios, mas um erro de cálculo compromete o esquema. Enquanto isso, o homem-cobra volta à fazenda.(n)</desc>
+    <credits>
+      <director>Steve Jones</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109170200 -0300" stop="20221109173400 -0300" channel="Animal Planet FHD H.265">
+    <title lang="pt">Pântano Perigoso</title>
+    <desc lang="pt">Os irmãos Keszey correm contra o tempo para descobrir o que está matando os jacarés. Eles têm dificuldade para trabalhar juntos enquanto coletam ovos.(n)</desc>
+    <credits>
+      <director>Steve Jones</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109173400 -0300" stop="20221109183400 -0300" channel="Animal Planet FHD H.265">
+    <title lang="pt">Monstros do Rio</title>
+    <desc lang="pt">Quando fica sabendo de um ataque sangrento em um rio da Mongólia, Jeremy Wade se pergunta se poderia ser obra de um peixe gigante que, de tão raro, é considerado lenda.(n)</desc>
+    <credits>
+      <director>Clare Dornan</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109183400 -0300" stop="20221109193400 -0300" channel="Animal Planet FHD H.265">
+    <title lang="pt">Pesca Mortal</title>
+    <desc lang="pt">A chance de ganhar mais 15 milhões de dólares com o aumento da cota acirra a disputa. Para avançar, o Time Bandit e o Wizard devem deixar para trás mais de uma década de rivalidade.(n)</desc>
+    <credits>
+      <actor>Mike Rowe</actor>
+      <actor>Bill Wichrowski</actor>
+      <actor>Elliot Neese</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20221109193400 -0300" stop="20221109203000 -0300" channel="Animal Planet FHD H.265">
+    <title lang="pt">Pesca Mortal</title>
+    <desc lang="pt">Ondas de mais de sete metros testam a coragem do capitão novato Josh Harris, mas é o fogo que ameaça afundar o Cornelia Marie. No Wizard, a tripulação se rebela contra o capitão Keith.(n)</desc>
+    <credits>
+      <director>Doug Stanley</director>
+      <actor>Mike Rowe</actor>
+      <actor>Edgar Hansen</actor>
+      <actor>Scott Hillstrand</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109203000 -0300" stop="20221109212200 -0300" channel="Animal Planet FHD H.265">
+    <title lang="pt">Caçadores de Dinossauros</title>
+    <desc lang="pt">Clayton Phipps vai descobrir se seu fóssil é de um tiranossauro ou do controverso Nanotyrannus. No Wyoming, Mike Harris e Aaron Bolan correm contra a chegada do inverno e escavam um novo local promissor.(n)</desc>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221109212200 -0300" stop="20221109221400 -0300" channel="Animal Planet FHD H.265">
+    <title lang="pt">Ilha dos Crocodilos: Caçadores do Tesouro Perdido</title>
+    <desc lang="pt">A equipe finalmente encontra ouro, mas a ilha não vai entregar suas riquezas sem lutar. Um crocodilo enorme tenta impedir o acesso de Farley ao ouro durante um confronto mortal no rio Queens.(n)</desc>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20221109221400 -0300" stop="20221109230600 -0300" channel="Animal Planet FHD H.265">
+    <title lang="pt">Caçadores de Pítons</title>
+    <desc lang="pt">Enquanto Dusty Crum e a equipe contêm a invasão de pítons criando um “torniquete” em áreas de tratamento de águas pluviais, Gary se prepara para viajar para o sul e caçar uma nova espécie invasora.(n)</desc>
+    <credits>
+      <director>Joseph Boyle</director>
+      <actor>Brittany Borges</actor>
+      <actor>Dusty Crum</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221109230600 -0300" stop="20221110000400 -0300" channel="Animal Planet FHD H.265">
+    <title lang="pt">Monstros da Montanha</title>
+    <desc lang="pt">A equipe retorna a Tygart Valley para provar que um enorme pé-grande ronda essa região misteriosa. Um som gutural vindo das colinas inicia as buscas e eles encontram uma estranha estrutura em forma de árvore.(n)</desc>
+    <category lang="pt">Investigação</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20221109003000 -0300" stop="20221109014500 -0300" channel="Band Sports HD ³">
     <title lang="pt">Liga Feminina de Futsal</title>
