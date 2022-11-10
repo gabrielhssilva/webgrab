@@ -9859,12 +9859,9 @@
   <programme start="20221111233000 -0300" stop="20221112000000 -0300" channel="Band News FHD H.265">
     <title lang="pt">Jornal BandNews Edição da Noite</title>
   </programme>
-  <programme start="20221109234500 -0300" stop="20221110005000 -0300" channel="Globo SP FHD H.265">
-    <title lang="pt">Verdades Secretas II</title>
-  </programme>
-  <programme start="20221110005000 -0300" stop="20221110014000 -0300" channel="Globo SP FHD H.265">
-    <title lang="pt">Jornal da Globo</title>
-    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  <programme start="20221110220000 -0300" stop="20221111000000 -0300" channel="Globo News FHD H.265">
+    <title lang="pt">Jornal das Dez</title>
+    <desc lang="pt">Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.(n)</desc>
     <credits>
       <director>Ali Kamel</director>
     </credits>
@@ -9873,185 +9870,82 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20221110014000 -0300" stop="20221110022000 -0300" channel="Globo SP FHD H.265">
-    <title lang="pt">Conversa com Bial</title>
-    <desc lang="pt">Com experiência de décadas de reportagem e o espírito curioso pela história do outro, Pedro Bial apresenta um amplo espaço para escutar, opinar e multiplicar opiniões.(n)</desc>
-    <credits>
-      <director>Monica Almeida</director>
-      <actor>Pedro Bial</actor>
-    </credits>
-    <category lang="pt">Talk Show</category>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
+  <programme start="20221111000000 -0300" stop="20221111013000 -0300" channel="Globo News FHD H.265">
+    <title lang="pt">Jornal GloboNews</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
   </programme>
-  <programme start="20221110022000 -0300" stop="20221110030500 -0300" channel="Globo SP FHD H.265">
-    <title lang="pt">Reapresentação</title>
-    <sub-title lang="pt">Cara e Coragem</sub-title>
-    <desc lang="pt">Chiquinho se diverte na festa, e Rebeca fica animada. Paulo avisa a Marcela que descobrirá quem mandou Berimbau incriminar Gustavo. Pat vai até o escritório de Danilo.(n)</desc>
-    <credits>
-      <director>Natalia Grimberg</director>
-      <actor>Paolla Oliveira</actor>
-      <actor>Marcelo Serrado</actor>
-      <actor>Taís Araujo</actor>
-      <actor>Paulo Lessa</actor>
-      <actor>Ícaro Silva</actor>
-      <actor>Ricardo Pereira</actor>
-    </credits>
-    <category lang="pt">Novela</category>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20221110030500 -0300" stop="20221110040000 -0300" channel="Globo SP FHD H.265">
-    <title lang="pt">Comédia Na Madruga</title>
-    <sub-title lang="pt">Vai Que Cola I</sub-title>
-  </programme>
-  <programme start="20221110040000 -0300" stop="20221110060000 -0300" channel="Globo SP FHD H.265">
-    <title lang="pt">Hora Um</title>
-  </programme>
-  <programme start="20221110060000 -0300" stop="20221110083000 -0300" channel="Globo SP FHD H.265">
-    <title lang="pt">Bom Dia SP</title>
-    <desc lang="pt">As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no Bom Dia SP, que traz ainda orientações de trânsito.(n)</desc>
+  <programme start="20221111013000 -0300" stop="20221111033000 -0300" channel="Globo News FHD H.265">
+    <title lang="pt">GloboNews em Pauta</title>
+    <desc lang="pt">Telejornal diário, com comentaristas que aprofundam as notícias do dia, com um convidado no estúdio. Destaque para política, cenário internacional e cultura.(n)</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20221110083000 -0300" stop="20221110093000 -0300" channel="Globo SP FHD H.265">
-    <title lang="pt">Bom Dia Brasil</title>
-    <desc lang="pt">O telejornal, com apresentação de Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  <programme start="20221111033000 -0300" stop="20221111040000 -0300" channel="Globo News FHD H.265">
+    <title lang="pt">Jornal GloboNews</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo.(n)</desc>
     <credits>
       <director>Ali Kamel</director>
-      <actor>Ana Paula Araújo</actor>
     </credits>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20221110093000 -0300" stop="20221110103500 -0300" channel="Globo SP FHD H.265">
-    <title lang="pt">Encontro com Patrícia Poeta</title>
-    <desc lang="pt">Patrícia Poeta, ao lado de Manoel Soares, comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
-    <credits>
-      <director>Fabrício Mamberti</director>
-      <director>Mario Marcio Bandarra</director>
-      <actor>Patrícia Poeta</actor>
-      <actor>Manoel Soares</actor>
-    </credits>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20221110103500 -0300" stop="20221110114500 -0300" channel="Globo SP FHD H.265">
-    <title lang="pt">Mais Você</title>
-    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
-    <credits>
-      <director>Vivi de Marco</director>
-    </credits>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20221110114500 -0300" stop="20221110130000 -0300" channel="Globo SP FHD H.265">
-    <title lang="pt">SP1</title>
-  </programme>
-  <programme start="20221110130000 -0300" stop="20221110132500 -0300" channel="Globo SP FHD H.265">
-    <title lang="pt">Globo Esporte</title>
-    <desc lang="pt">O programa apresenta a cobertura completa dos eventos esportivos do Brasil e do mundo, e acompanha o dia a dia dos atletas.(n)</desc>
-    <credits>
-      <director>André Boaventura</director>
-    </credits>
-    <category lang="pt">Esportivo</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20221110132500 -0300" stop="20221110144500 -0300" channel="Globo SP FHD H.265">
-    <title lang="pt">Jornal Hoje</title>
-    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de César Tralli.(n)</desc>
+  <programme start="20221111040000 -0300" stop="20221111060000 -0300" channel="Globo News FHD H.265">
+    <title lang="pt">Jornal das Dez</title>
+    <desc lang="pt">Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.(n)</desc>
     <credits>
       <director>Ali Kamel</director>
-      <actor>César Tralli</actor>
     </credits>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20221110144500 -0300" stop="20221110153000 -0300" channel="Globo SP FHD H.265">
-    <title lang="pt">Chocolate com Pimenta</title>
+  <programme start="20221111060000 -0300" stop="20221111090000 -0300" channel="Globo News FHD H.265">
+    <title lang="pt">GloboNews Em Ponto</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
   </programme>
-  <programme start="20221110153000 -0300" stop="20221110170500 -0300" channel="Globo SP FHD H.265">
-    <title lang="pt">Sessão da Tarde: Depois da Terra</title>
+  <programme start="20221111090000 -0300" stop="20221111125500 -0300" channel="Globo News FHD H.265">
+    <title lang="pt">Conexão GloboNews</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
   </programme>
-  <programme start="20221110170500 -0300" stop="20221110173000 -0300" channel="Globo SP FHD H.265">
-    <title lang="pt">Vale a Pena Ver de Novo: O Rei do Gado</title>
+  <programme start="20221111125500 -0300" stop="20221111160000 -0300" channel="Globo News FHD H.265">
+    <title lang="pt">Estúdio i</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
   </programme>
-  <programme start="20221110173000 -0300" stop="20221110182500 -0300" channel="Globo SP FHD H.265">
-    <title lang="pt">Vale a Pena Ver de Novo: A Favorita</title>
-    <desc lang="pt">Ambientada em São Paulo, 'A Favorita' apresenta como trama central a rivalidade entre Flora e Donatela, antigas parceiras da fictícia dupla sertaneja Faísca e Espoleta.(n)</desc>
-    <credits>
-      <director>Ricardo Waddington</director>
-      <actor>Patrícia Pillar</actor>
-      <actor>Claudia Raia</actor>
-      <actor>Murilo Benício</actor>
-      <actor>Mariana Ximenes</actor>
-      <actor>Cauã Reymond</actor>
-      <actor>Lilia Cabral</actor>
-    </credits>
-    <category lang="pt">Novela</category>
+  <programme start="20221111160000 -0300" stop="20221111180000 -0300" channel="Globo News FHD H.265">
+    <title lang="pt">GloboNews Mais</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+  </programme>
+  <programme start="20221111180000 -0300" stop="20221111200000 -0300" channel="Globo News FHD H.265">
+    <title lang="pt">Jornal GloboNews</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+  </programme>
+  <programme start="20221111200000 -0300" stop="20221111220000 -0300" channel="Globo News FHD H.265">
+    <title lang="pt">GloboNews em Pauta</title>
+    <desc lang="pt">Telejornal diário, com comentaristas que aprofundam as notícias do dia, com um convidado no estúdio. Destaque para política, cenário internacional e cultura.(n)</desc>
+    <category lang="pt">Informativo</category>
     <rating system="BR">
-      <value>14</value>
+      <value>5</value>
     </rating>
   </programme>
-  <programme start="20221110182500 -0300" stop="20221110191000 -0300" channel="Globo SP FHD H.265">
-    <title lang="pt">Mar do Sertão</title>
-  </programme>
-  <programme start="20221110191000 -0300" stop="20221110194000 -0300" channel="Globo SP FHD H.265">
-    <title lang="pt">SP2</title>
-  </programme>
-  <programme start="20221110194000 -0300" stop="20221110203000 -0300" channel="Globo SP FHD H.265">
-    <title lang="pt">Cara e Coragem</title>
-    <desc lang="pt">Moa se desespera e tenta falar com Ítalo. Danilo inventa uma desculpa para Chiquinho, que acredita que ganhou um presente de aniversário especial e os dois se divertem num circo.(n)</desc>
+  <programme start="20221111220000 -0300" stop="20221111233000 -0300" channel="Globo News FHD H.265">
+    <title lang="pt">Jornal das Dez</title>
+    <desc lang="pt">Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.(n)</desc>
     <credits>
-      <director>Natalia Grimberg</director>
-      <actor>Paolla Oliveira</actor>
-      <actor>Marcelo Serrado</actor>
-      <actor>Taís Araujo</actor>
-      <actor>Paulo Lessa</actor>
-      <actor>Ícaro Silva</actor>
-      <actor>Ricardo Pereira</actor>
+      <director>Ali Kamel</director>
     </credits>
-    <category lang="pt">Novela</category>
+    <category lang="pt">Informativo</category>
     <rating system="BR">
-      <value>12</value>
+      <value>5</value>
     </rating>
   </programme>
-  <programme start="20221110203000 -0300" stop="20221110212000 -0300" channel="Globo SP FHD H.265">
-    <title lang="pt">Jornal Nacional</title>
-  </programme>
-  <programme start="20221110212000 -0300" stop="20221110222500 -0300" channel="Globo SP FHD H.265">
-    <title lang="pt">Travessia</title>
-    <desc lang="pt">Ari explica a Brisa que, depois que conversar com Guerra, voltará para buscá-la com Tonho. Talita deixa claro a Gil que a relação do casal terminou e convida Lídia para dividir o apartamento com ela.(n)</desc>
-    <credits>
-      <director>Mauro Mendonça Filho</director>
-      <actor>Lucy Alves</actor>
-      <actor>Chay Suede</actor>
-      <actor>Drica Moraes</actor>
-      <actor>Marcos Caruso</actor>
-      <actor>Vicente Alvite</actor>
-      <actor>Romulo Estrela</actor>
-    </credits>
-    <category lang="pt">Novela</category>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20221110222500 -0300" stop="20221110233000 -0300" channel="Globo SP FHD H.265">
-    <title lang="pt">Ilha de Ferro</title>
+  <programme start="20221111233000 -0300" stop="20221112000000 -0300" channel="Globo News FHD H.265">
+    <title lang="pt">Diálogos com Mario Sergio Conti</title>
   </programme>
   <programme start="20221110233000 -0300" stop="20221111003500 -0300" channel="Globo SP FHD H.265">
     <title lang="pt">Verdades Secretas II</title>
@@ -10249,5 +10143,953 @@
   </programme>
   <programme start="20221111231500 -0300" stop="20221112002000 -0300" channel="Globo SP FHD H.265">
     <title lang="pt">Verdades Secretas II</title>
+  </programme>
+  <programme start="20221110220000 -0300" stop="20221111002000 -0300" channel="HBO 2 FHD H.265">
+    <title lang="pt">O Esquadrão Suicida</title>
+  </programme>
+  <programme start="20221111002000 -0300" stop="20221111015500 -0300" channel="HBO 2 FHD H.265">
+    <title lang="pt">Fúria Incontrolável</title>
+  </programme>
+  <programme start="20221111015500 -0300" stop="20221111023000 -0300" channel="HBO 2 FHD H.265">
+    <title lang="pt">Avenue 5</title>
+  </programme>
+  <programme start="20221111023000 -0300" stop="20221111041000 -0300" channel="HBO 2 FHD H.265">
+    <title lang="pt">Marcas da Violência</title>
+    <desc lang="pt">Após evitar um assalto e matar, em legítima defesa dois criminosos, um homem tem sua vida de calmaria inteiramente transformada pela mídia.(n)</desc>
+    <credits>
+      <director>David Cronenberg</director>
+      <actor>Viggo Mortensen</actor>
+      <actor>Maria Bello</actor>
+      <actor>Ed Harris</actor>
+      <actor>William Hurt</actor>
+      <actor>Ashton Holmes</actor>
+      <actor>Peter MacNeill</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221111041000 -0300" stop="20221111060000 -0300" channel="HBO 2 FHD H.265">
+    <title lang="pt">Serpentes a Bordo</title>
+  </programme>
+  <programme start="20221111060000 -0300" stop="20221111074000 -0300" channel="HBO 2 FHD H.265">
+    <title lang="pt">Premonição</title>
+  </programme>
+  <programme start="20221111074000 -0300" stop="20221111092000 -0300" channel="HBO 2 FHD H.265">
+    <title lang="pt">Invasores</title>
+    <desc lang="pt">Uma misteriosa epidemia vem alterando o comportamento dos humanos. Uma psiquiatra de Washington descobre que essa epidemia é de origem extraterrestre, e que precisa proteger o filho, que poderá ser vital para impedir uma invasão.(n)</desc>
+    <credits>
+      <director>Oliver Hirschbiegel</director>
+      <actor>Nicole Kidman</actor>
+      <actor>Daniel Craig</actor>
+      <actor>Jeremy Northam</actor>
+      <actor>Jackson Bond</actor>
+      <actor>Jeffrey Wright</actor>
+      <actor>Veronica Cartwright</actor>
+    </credits>
+    <category lang="pt">Suspense</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20221111092000 -0300" stop="20221111111000 -0300" channel="HBO 2 FHD H.265">
+    <title lang="pt">Voyagers</title>
+  </programme>
+  <programme start="20221111111000 -0300" stop="20221111133500 -0300" channel="HBO 2 FHD H.265">
+    <title lang="pt">O Homem de Aço</title>
+    <desc lang="pt">Um menino de um planeta muito distante foi enviado à Terra. Desenvolveu poderes sobrenaturais. Agora é um homem e deve descobrir qual é sua missão, enfrentar velhos inimigos e salvar a humanidade.(n)</desc>
+    <credits>
+      <director>Zack Snyder</director>
+      <actor>Henry Cavill</actor>
+      <actor>Amy Adams</actor>
+      <actor>Diane Lane</actor>
+      <actor>Richard Schiff</actor>
+      <actor>Russell Crowe</actor>
+      <actor>Christopher Meloni</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221111133500 -0300" stop="20221111152500 -0300" channel="HBO 2 FHD H.265">
+    <title lang="pt">Dc Liga dos Superpets</title>
+    <desc lang="pt">Krypto, o Supercão e Superman são melhores amigos e inseparáveis, compartilham os mesmos superpoderes e lutam contra o crime lado a lado em Metrópolis.(n)</desc>
+    <credits>
+      <director>Jared Stern</director>
+      <director>Sam J. Levine</director>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221111152500 -0300" stop="20221111165500 -0300" channel="HBO 2 FHD H.265">
+    <title lang="pt">Cegonhas</title>
+    <sub-title lang="pt">A História Que Não Te Contaram</sub-title>
+  </programme>
+  <programme start="20221111165500 -0300" stop="20221111185000 -0300" channel="HBO 2 FHD H.265">
+    <title lang="pt">Oito Mulheres e Um Segredo</title>
+  </programme>
+  <programme start="20221111185000 -0300" stop="20221111193000 -0300" channel="HBO 2 FHD H.265">
+    <title lang="pt">Funk.doc</title>
+    <desc lang="pt">Vários artistas tentam responder o que faz do baile funk um lugar mágico. Por trás da magia, o funk carrega uma história tão rica e complexa, que passa por uma banda alemão, o movimento punk e a ancestralidade africana.(n)</desc>
+    <credits>
+      <director>Luiz Bolognesi</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20221111193000 -0300" stop="20221111200500 -0300" channel="HBO 2 FHD H.265">
+    <title lang="pt">Funk.doc</title>
+  </programme>
+  <programme start="20221111200500 -0300" stop="20221111220000 -0300" channel="HBO 2 FHD H.265">
+    <title lang="pt">Voyagers</title>
+  </programme>
+  <programme start="20221111220000 -0300" stop="20221111233000 -0300" channel="HBO 2 FHD H.265">
+    <title lang="pt">Mamãe</title>
+    <desc lang="pt">Amanda e sua filha vivem uma vida tranquila em uma fazenda americana, mas quando os restos mortais de sua mãe distante chegam da Coréia, Amanda fica assombrada pelo medo de se transformar em sua própria mãe.(n)</desc>
+    <credits>
+      <director>Iris K. Shim</director>
+      <actor>Sandra Oh</actor>
+      <actor>Fivel Stewart</actor>
+      <actor>Dermot Mulroney</actor>
+      <actor>Odeya Rush</actor>
+      <actor>Meewha Alana Lee</actor>
+      <actor>Tom Yi</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20221111233000 -0300" stop="20221112003000 -0300" channel="HBO 2 FHD H.265">
+    <title lang="pt">The White Lotus</title>
+  </programme>
+  <programme start="20221110221400 -0300" stop="20221111000700 -0300" channel="HBO Family FHD H.265">
+    <title lang="pt">O Tempo com Você</title>
+    <desc lang="pt">Em um dia de chuva extrema, o estudante do ensino médio Hodaka Morishima foge de sua problemática casa rural para Tóquio e faz amizade com uma menina órfã que tem o poder de manipular o clima.(n)</desc>
+    <credits>
+      <director>Makoto Shinkai</director>
+      <actor>Kotaro Daigo</actor>
+      <actor>Nana Mori</actor>
+      <actor>Tsubasa Honda</actor>
+    </credits>
+    <category lang="pt">Animação</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221111000700 -0300" stop="20221111022100 -0300" channel="HBO Family FHD H.265">
+    <title lang="pt">Invictus</title>
+    <desc lang="pt">Invictus nos traz a inspiradora história de como Nelson Mandela uniu forças com o capitão da equipe de rúgbi da África do Sul, Francois Pienaar, para ajudar a unir a nação.(n)</desc>
+    <credits>
+      <director>Clint Eastwood</director>
+      <actor>Morgan Freeman</actor>
+      <actor>Matt Damon</actor>
+      <actor>Scott Eastwood</actor>
+      <actor>Langley Kirkwood</actor>
+      <actor>Robert Hobbs</actor>
+      <actor>Tony Kgoroge</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221111022100 -0300" stop="20221111040500 -0300" channel="HBO Family FHD H.265">
+    <title lang="pt">Gremlins 2: A Nova Geração</title>
+  </programme>
+  <programme start="20221111040500 -0300" stop="20221111060000 -0300" channel="HBO Family FHD H.265">
+    <title lang="pt">A Bússola de Ouro</title>
+  </programme>
+  <programme start="20221111060000 -0300" stop="20221111081100 -0300" channel="HBO Family FHD H.265">
+    <title lang="pt">42: A História de Uma Lenda</title>
+    <desc lang="pt">Presidente do Brooklyn Dodgers, que encontrou em Robinson o jogador perfeito para enfrentar um desafio muito maior que o esporte: vencer o preconceito dos torcedores e dos próprios colegas de time.(n)</desc>
+    <credits>
+      <director>Brian Helgeland</director>
+      <actor>Harrison Ford</actor>
+      <actor>Christopher Meloni</actor>
+      <actor>Ryan Merriman</actor>
+      <actor>Lucas Black</actor>
+      <actor>Alan Tudyk</actor>
+      <actor>John C. McGinley</actor>
+    </credits>
+    <category lang="pt">Biografia</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20221111081100 -0300" stop="20221111095900 -0300" channel="HBO Family FHD H.265">
+    <title lang="pt">Encontro de Amor</title>
+  </programme>
+  <programme start="20221111095900 -0300" stop="20221111115700 -0300" channel="HBO Family FHD H.265">
+    <title lang="pt">Space Jam: Um Novo Legado</title>
+    <desc lang="pt">Bem-vindo ao Jogo! Lebron James, Pernalonga, Lola Bunny e o time Looney Tunes jogam a mais importante partida de suas vidas.(n)</desc>
+    <credits>
+      <director>Malcolm D. Lee</director>
+      <actor>LeBron James</actor>
+      <actor>Don Cheadle</actor>
+      <actor>Cedric Joe</actor>
+    </credits>
+    <category lang="pt">Animação</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221111115700 -0300" stop="20221111135200 -0300" channel="HBO Family FHD H.265">
+    <title lang="pt">Meu Monstro de Estimação</title>
+  </programme>
+  <programme start="20221111135200 -0300" stop="20221111153000 -0300" channel="HBO Family FHD H.265">
+    <title lang="pt">A Nova Cinderela</title>
+  </programme>
+  <programme start="20221111153000 -0300" stop="20221111171300 -0300" channel="HBO Family FHD H.265">
+    <title lang="pt">Tom &amp; Jerry: O Filme</title>
+  </programme>
+  <programme start="20221111171300 -0300" stop="20221111184300 -0300" channel="HBO Family FHD H.265">
+    <title lang="pt">Cj7</title>
+    <sub-title lang="pt">O Brinquedo Mágico</sub-title>
+  </programme>
+  <programme start="20221111184300 -0300" stop="20221111200000 -0300" channel="HBO Family FHD H.265">
+    <title lang="pt">Tom e Jerry no Velho Oeste</title>
+  </programme>
+  <programme start="20221111200000 -0300" stop="20221111215800 -0300" channel="HBO Family FHD H.265">
+    <title lang="pt">Space Jam: Um Novo Legado</title>
+    <desc lang="pt">Bem-vindo ao Jogo! Lebron James, Pernalonga, Lola Bunny e o time Looney Tunes jogam a mais importante partida de suas vidas.(n)</desc>
+    <credits>
+      <director>Malcolm D. Lee</director>
+      <actor>LeBron James</actor>
+      <actor>Don Cheadle</actor>
+      <actor>Cedric Joe</actor>
+    </credits>
+    <category lang="pt">Animação</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221111215800 -0300" stop="20221111233000 -0300" channel="HBO Family FHD H.265">
+    <title lang="pt">No Olho do Tornado</title>
+    <desc lang="pt">Na trama, em um único dia, a cidade de Silverton é devastada por uma ocorrência sem precedentes de tornados.(n)</desc>
+    <credits>
+      <director>Steven Quale</director>
+      <actor>Richard Armitage</actor>
+      <actor>Sarah Wayne Callies</actor>
+      <actor>Matt Walsh</actor>
+      <actor>Max Deacon</actor>
+      <actor>Nathan Kress</actor>
+      <actor>Alycia Debnam Carey</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20221111233000 -0300" stop="20221112011100 -0300" channel="HBO Family FHD H.265">
+    <title lang="pt">Um Natal Muito, Muito Louco</title>
+    <desc lang="pt">Quando a filha única, Blair, deixa o ninho familiar, Luther e Nora Krank decidem agendar um cruzeiro na época natalina.(n)</desc>
+    <credits>
+      <director>Joe Roth</director>
+      <actor>Tim Allen</actor>
+      <actor>Jamie Lee Curtis</actor>
+      <actor>Dan Aykroyd</actor>
+      <actor>Julie Gonzalo</actor>
+      <actor>M. Emmet Walsh</actor>
+      <actor>Elizabeth Franz</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+    <star-rating system="BR">
+      <value>2</value>
+    </star-rating>
+  </programme>
+  <programme start="20221110224500 -0300" stop="20221111004500 -0300" channel="HBO FHD H.265">
+    <title lang="pt">Space Jam: Um Novo Legado</title>
+    <desc lang="pt">Bem-vindo ao Jogo! Lebron James, Pernalonga, Lola Bunny e o time Looney Tunes jogam a mais importante partida de suas vidas.(n)</desc>
+    <credits>
+      <director>Malcolm D. Lee</director>
+      <actor>LeBron James</actor>
+      <actor>Don Cheadle</actor>
+      <actor>Cedric Joe</actor>
+    </credits>
+    <category lang="pt">Animação</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221111004500 -0300" stop="20221111021500 -0300" channel="HBO FHD H.265">
+    <title lang="pt">Mamãe</title>
+    <desc lang="pt">Amanda e sua filha vivem uma vida tranquila em uma fazenda americana, mas quando os restos mortais de sua mãe distante chegam da Coréia, Amanda fica assombrada pelo medo de se transformar em sua própria mãe.(n)</desc>
+    <credits>
+      <director>Iris K. Shim</director>
+      <actor>Sandra Oh</actor>
+      <actor>Fivel Stewart</actor>
+      <actor>Dermot Mulroney</actor>
+      <actor>Odeya Rush</actor>
+      <actor>Meewha Alana Lee</actor>
+      <actor>Tom Yi</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20221111021500 -0300" stop="20221111034000 -0300" channel="HBO FHD H.265">
+    <title lang="pt">HBO Documetales</title>
+  </programme>
+  <programme start="20221111034000 -0300" stop="20221111060000 -0300" channel="HBO FHD H.265">
+    <title lang="pt">O Grande Truque</title>
+  </programme>
+  <programme start="20221111060000 -0300" stop="20221111063500 -0300" channel="HBO FHD H.265">
+    <title lang="pt">Greg News Com Gregório Duvivier</title>
+    <desc lang="pt">Com humor afiado, Gregório Duvivier vai direto ao ponto na interpretação das principais notícias na quinta temporada de Greg News.(n)</desc>
+    <credits>
+      <director>Alessandra Orofino</director>
+      <actor>Gregório Duvivier</actor>
+    </credits>
+    <category lang="pt">Humor</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20221111063500 -0300" stop="20221111083500 -0300" channel="HBO FHD H.265">
+    <title lang="pt">Superbad</title>
+    <sub-title lang="pt">É Hoje</sub-title>
+  </programme>
+  <programme start="20221111083500 -0300" stop="20221111101500 -0300" channel="HBO FHD H.265">
+    <title lang="pt">Te Pego na Saída</title>
+    <desc lang="pt">Tudo parecia estar em paz na relação do corpo docente de uma escola dos EUA. Entretanto, quando um professor arma para que um outro seja demitido, ele é desafiado para uma briga que vai chamar a atenção de todo mundo.(n)</desc>
+    <credits>
+      <director>Richie Keen</director>
+      <actor>Andy Campbell</actor>
+      <actor>Ron Strickland</actor>
+      <actor>Coach Freddie Coward</actor>
+      <actor>Counselor Holly</actor>
+      <actor>Miss Monet</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20221111101500 -0300" stop="20221111120000 -0300" channel="HBO FHD H.265">
+    <title lang="pt">O Filhinho da Mamãe</title>
+  </programme>
+  <programme start="20221111120000 -0300" stop="20221111144500 -0300" channel="HBO FHD H.265">
+    <title lang="pt">Elvis</title>
+  </programme>
+  <programme start="20221111144500 -0300" stop="20221111151500 -0300" channel="HBO FHD H.265">
+    <title lang="pt">Avenue 5</title>
+  </programme>
+  <programme start="20221111151500 -0300" stop="20221111175000 -0300" channel="HBO FHD H.265">
+    <title lang="pt">Batman Vs Superman: A Origem da Justiça</title>
+  </programme>
+  <programme start="20221111175000 -0300" stop="20221111202500 -0300" channel="HBO FHD H.265">
+    <title lang="pt">Mulher-Maravilha 1984</title>
+    <desc lang="pt">Volte aos anos 80 e siga Gal Gadot em seu retorno como a mítica guerreira amazona para enfrentar dois novos inimigos: Max Lord e Cheetah.(n)</desc>
+    <credits>
+      <director>Patty Jenkins</director>
+      <actor>Gal Gadot</actor>
+      <actor>Kristen Wiig</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221111202500 -0300" stop="20221111220000 -0300" channel="HBO FHD H.265">
+    <title lang="pt">Lanterna Verde: Cuidado com Meu Poder</title>
+    <desc lang="pt">Um Anel de Poder é confiado ao veterano da Marinha John Stewart e sua vida muda para sempre.(n)</desc>
+    <credits>
+      <director>Jeff Wamester</director>
+    </credits>
+    <category lang="pt">Animação</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20221111220000 -0300" stop="20221111230500 -0300" channel="HBO FHD H.265">
+    <title lang="pt">We're Here</title>
+  </programme>
+  <programme start="20221111230500 -0300" stop="20221111234000 -0300" channel="HBO FHD H.265">
+    <title lang="pt">Greg News Com Gregório Duvivier</title>
+  </programme>
+  <programme start="20221111234000 -0300" stop="20221112022500 -0300" channel="HBO FHD H.265">
+    <title lang="pt">Elvis</title>
+  </programme>
+  <programme start="20221110220000 -0300" stop="20221111000500 -0300" channel="HBO Pop FHD H.265">
+    <title lang="pt">Um Conto do Destino</title>
+    <desc lang="pt">Situado numa mítica cidade de Nova York há mais de cem anos, Um Conto do Destino é uma história de milagres, destinos cruzados e a velha batalha entre o bem e o mal.(n)</desc>
+    <credits>
+      <director>Akiva Goldsman</director>
+      <actor>Colin Farrell</actor>
+      <actor>Matt Bomer</actor>
+      <actor>Lucy Griffiths</actor>
+      <actor>Michael Patrick Crane</actor>
+      <actor>Brian Hutchison</actor>
+      <actor>Kevin Corrigan</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20221111000500 -0300" stop="20221111020200 -0300" channel="HBO Pop FHD H.265">
+    <title lang="pt">Confirmação</title>
+  </programme>
+  <programme start="20221111020200 -0300" stop="20221111051900 -0300" channel="HBO Pop FHD H.265">
+    <title lang="pt">Magnólia</title>
+  </programme>
+  <programme start="20221111051900 -0300" stop="20221111060000 -0300" channel="HBO Pop FHD H.265">
+    <title lang="pt">Sex and the City</title>
+  </programme>
+  <programme start="20221111060000 -0300" stop="20221111072800 -0300" channel="HBO Pop FHD H.265">
+    <title lang="pt">Mestre do Disfarce</title>
+    <desc lang="pt">Uma família usou talentos especiais de disfarce contra o mal. O último deles, Pistachio, não entende este misterioso poder.(n)</desc>
+    <credits>
+      <director>Perry Andelin Blake</director>
+      <actor>Dana Carvey</actor>
+      <actor>Brent Spiner</actor>
+      <actor>Jennifer Esposito</actor>
+      <actor>Harold Gould</actor>
+      <actor>James Brolin</actor>
+      <actor>Austin Wolff</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>1</value>
+    </star-rating>
+  </programme>
+  <programme start="20221111072800 -0300" stop="20221111093500 -0300" channel="HBO Pop FHD H.265">
+    <title lang="pt">Amor a Toda Prova</title>
+  </programme>
+  <programme start="20221111093500 -0300" stop="20221111112000 -0300" channel="HBO Pop FHD H.265">
+    <title lang="pt">Meu Vizinho Mafioso</title>
+  </programme>
+  <programme start="20221111112000 -0300" stop="20221111125500 -0300" channel="HBO Pop FHD H.265">
+    <title lang="pt">Frank e o Robô</title>
+    <desc lang="pt">Em um futuro próximo, Frank é um ladrão de jóias aposentado que vive sozinho e não se adapta às mudanças tecnológicas. Quando seu filho dá a ele um robô de presente para que o ajude, Frank encontrará um aliado e amigo.(n)</desc>
+    <credits>
+      <director>Jake Schreier</director>
+      <actor>Frank Langella</actor>
+      <actor>James Marsden</actor>
+      <actor>Liv Tyler</actor>
+      <actor>Susan Sarandon</actor>
+      <actor>Peter Sarsgaard</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221111125500 -0300" stop="20221111140000 -0300" channel="HBO Pop FHD H.265">
+    <title lang="pt">We're Here</title>
+  </programme>
+  <programme start="20221111140000 -0300" stop="20221111154500 -0300" channel="HBO Pop FHD H.265">
+    <title lang="pt">O Homem da Casa</title>
+  </programme>
+  <programme start="20221111154500 -0300" stop="20221111173000 -0300" channel="HBO Pop FHD H.265">
+    <title lang="pt">Dreamland</title>
+    <desc lang="pt">Uma ladra fugitiva se refugia na casa de um jovem caçador de recompensas durante a Grande Depressão.(n)</desc>
+    <credits>
+      <director>Miles Joris-Peyrafitte</director>
+      <actor>Finn Cole</actor>
+      <actor>Margot Robbie</actor>
+      <actor>Travis Fimmel</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20221111173000 -0300" stop="20221111191500 -0300" channel="HBO Pop FHD H.265">
+    <title lang="pt">Minhas Adoráveis Ex-Namoradas</title>
+    <desc lang="pt">Connor Mead é um solteiro convicto que ama sua liberdade. Na véspera do casamento de seu irmão recebe uma visita de seu tio Wayne com uma mensagem urgente de todas suas ex-namoradas. Assim começa reveladora e divertida viagem.(n)</desc>
+    <credits>
+      <director>Mark Waters</director>
+      <actor>Matthew McConaughey</actor>
+      <actor>Jennifer Garner</actor>
+      <actor>Breckin Meyer</actor>
+      <actor>Lacey Chabert</actor>
+      <actor>Robert Forster</actor>
+      <actor>Emma Stone</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20221111191500 -0300" stop="20221111205500 -0300" channel="HBO Pop FHD H.265">
+    <title lang="pt">Tammy: Fora de Controle</title>
+  </programme>
+  <programme start="20221111205500 -0300" stop="20221111220000 -0300" channel="HBO Pop FHD H.265">
+    <title lang="pt">HBO Movies</title>
+    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <category lang="pt">Cinema</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221111220000 -0300" stop="20221112000000 -0300" channel="HBO Pop FHD H.265">
+    <title lang="pt">Amor a Toda Prova</title>
+  </programme>
+  <programme start="20221110230000 -0300" stop="20221111000600 -0300" channel="HBO Signature FHD H.265">
+    <title lang="pt">Transamazônica \u2013 Uma Estrada Para o Passado</title>
+    <desc lang="pt">Neste episódio vamos conhecer o projeto de colonização do governo militar e comparamos a Transamazônica com o projeto Belo Monte.(n)</desc>
+    <credits>
+      <director>Jorge Bodanzky</director>
+      <director>Fabiano Maciel</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20221111000600 -0300" stop="20221111015600 -0300" channel="HBO Signature FHD H.265">
+    <title lang="pt">537 Votes</title>
+    <desc lang="pt">Documentário que narra as maquinações políticas que levaram ao controverso resultado das eleições presidenciais de 2000, incluindo a caótica recontagem de votos na Flórida que levou à vitória de George W. Bush.(n)</desc>
+    <credits>
+      <director>Billy Corben</director>
+      <actor>Roger Stone</actor>
+      <actor>Al Cárdenas</actor>
+      <actor>Joe Geller</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221111015600 -0300" stop="20221111032400 -0300" channel="HBO Signature FHD H.265">
+    <title lang="pt">Primo</title>
+    <desc lang="pt">Primo Levi narra a história de como ele, um químico judeu italiano, foi capturado pelos nazistas e enviado a Auschwitz. Dele e de outros prisioneiros, foram tiradas todas as posses, identidade e orgulho.(n)</desc>
+    <credits>
+      <director>Richard Wilson</director>
+      <actor>Antony Sher</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221111032400 -0300" stop="20221111042400 -0300" channel="HBO Signature FHD H.265">
+    <title lang="pt">We Are The Dream: The Kids Of The Oakland Mlk Oratorical Fest</title>
+    <desc lang="pt">Siga os alunos de escolas de Oakland, Califórnia, nos meses que antecedem o 40º Festival Oratório da MLK, enquanto aperfeiçoam seus discursos, esperando um lugar cobiçado nas finais.(n)</desc>
+    <credits>
+      <director>Amy Schatz</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221111042400 -0300" stop="20221111060000 -0300" channel="HBO Signature FHD H.265">
+    <title lang="pt">Cinema Verite: The Saga Of An American Family</title>
+  </programme>
+  <programme start="20221111060000 -0300" stop="20221111080300 -0300" channel="HBO Signature FHD H.265">
+    <title lang="pt">O Esquema</title>
+    <desc lang="pt">Documentando o envolvimento de Christian Dawkin no maior caso criminal da história do esporte colegial.(n)</desc>
+    <credits>
+      <director>Pat Kondelis</director>
+      <actor>Christian Dawkins</actor>
+      <actor>Sean Miller</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221111080300 -0300" stop="20221111095300 -0300" channel="HBO Signature FHD H.265">
+    <title lang="pt">Breslin e Hamill: As Vozes de Nova York</title>
+  </programme>
+  <programme start="20221111095300 -0300" stop="20221111103000 -0300" channel="HBO Signature FHD H.265">
+    <title lang="pt">Insecure</title>
+  </programme>
+  <programme start="20221111103000 -0300" stop="20221111110300 -0300" channel="HBO Signature FHD H.265">
+    <title lang="pt">Insecure</title>
+  </programme>
+  <programme start="20221111110300 -0300" stop="20221111113800 -0300" channel="HBO Signature FHD H.265">
+    <title lang="pt">Insecure</title>
+    <desc lang="pt">Issa Dee, Molly, Lawrence e os outros seguem tentando descobrir o que fazer da vida na última temporada da série.(n)</desc>
+    <credits>
+      <director>Ava Berkofsky</director>
+      <actor>Timothy Ryan Cole</actor>
+      <actor>Mark Collier</actor>
+      <actor>Kristofer Gordon</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221111113800 -0300" stop="20221111121300 -0300" channel="HBO Signature FHD H.265">
+    <title lang="pt">Insecure</title>
+  </programme>
+  <programme start="20221111121300 -0300" stop="20221111124300 -0300" channel="HBO Signature FHD H.265">
+    <title lang="pt">Insecure</title>
+  </programme>
+  <programme start="20221111124300 -0300" stop="20221111131300 -0300" channel="HBO Signature FHD H.265">
+    <title lang="pt">Insecure</title>
+  </programme>
+  <programme start="20221111131300 -0300" stop="20221111134800 -0300" channel="HBO Signature FHD H.265">
+    <title lang="pt">Insecure</title>
+  </programme>
+  <programme start="20221111134800 -0300" stop="20221111142200 -0300" channel="HBO Signature FHD H.265">
+    <title lang="pt">Insecure</title>
+  </programme>
+  <programme start="20221111142200 -0300" stop="20221111145500 -0300" channel="HBO Signature FHD H.265">
+    <title lang="pt">Insecure</title>
+  </programme>
+  <programme start="20221111145500 -0300" stop="20221111153800 -0300" channel="HBO Signature FHD H.265">
+    <title lang="pt">Insecure</title>
+    <desc lang="pt">Issa Dee, Molly, Lawrence e os outros seguem tentando descobrir o que fazer da vida na última temporada da série.(n)</desc>
+    <credits>
+      <actor>Brittney Ayona Clemons</actor>
+      <actor>Isai Devine</actor>
+      <actor>Nikiva Dionne</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221111153800 -0300" stop="20221111172800 -0300" channel="HBO Signature FHD H.265">
+    <title lang="pt">O.G.</title>
+  </programme>
+  <programme start="20221111172800 -0300" stop="20221111180200 -0300" channel="HBO Signature FHD H.265">
+    <title lang="pt">Insecure</title>
+  </programme>
+  <programme start="20221111180200 -0300" stop="20221111183500 -0300" channel="HBO Signature FHD H.265">
+    <title lang="pt">Insecure</title>
+  </programme>
+  <programme start="20221111183500 -0300" stop="20221111190700 -0300" channel="HBO Signature FHD H.265">
+    <title lang="pt">Insecure</title>
+    <desc lang="pt">Issa Dee, Molly, Lawrence e os outros seguem tentando descobrir o que fazer da vida na última temporada da série.(n)</desc>
+    <credits>
+      <director>Ava Berkofsky</director>
+      <actor>Timothy Ryan Cole</actor>
+      <actor>Mark Collier</actor>
+      <actor>Kristofer Gordon</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221111190700 -0300" stop="20221111194000 -0300" channel="HBO Signature FHD H.265">
+    <title lang="pt">Insecure</title>
+  </programme>
+  <programme start="20221111194000 -0300" stop="20221111201000 -0300" channel="HBO Signature FHD H.265">
+    <title lang="pt">Insecure</title>
+  </programme>
+  <programme start="20221111201000 -0300" stop="20221111204000 -0300" channel="HBO Signature FHD H.265">
+    <title lang="pt">Insecure</title>
+  </programme>
+  <programme start="20221111204000 -0300" stop="20221111211200 -0300" channel="HBO Signature FHD H.265">
+    <title lang="pt">Insecure</title>
+  </programme>
+  <programme start="20221111211200 -0300" stop="20221111214500 -0300" channel="HBO Signature FHD H.265">
+    <title lang="pt">Insecure</title>
+  </programme>
+  <programme start="20221111214500 -0300" stop="20221111221500 -0300" channel="HBO Signature FHD H.265">
+    <title lang="pt">Insecure</title>
+  </programme>
+  <programme start="20221111221500 -0300" stop="20221111230000 -0300" channel="HBO Signature FHD H.265">
+    <title lang="pt">Insecure</title>
+    <desc lang="pt">Issa Dee, Molly, Lawrence e os outros seguem tentando descobrir o que fazer da vida na última temporada da série.(n)</desc>
+    <credits>
+      <actor>Brittney Ayona Clemons</actor>
+      <actor>Isai Devine</actor>
+      <actor>Nikiva Dionne</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221111230000 -0300" stop="20221112000000 -0300" channel="HBO Signature FHD H.265">
+    <title lang="pt">The Vow</title>
+    <desc lang="pt">Durante seu depoimento, Lauren revela as décadas de manipulação que suportou de Keith - que lhe prometeu um bebê se ela superasse sua \.(n)</desc>
+    <credits>
+      <director>Jehane Noujaim</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20221110235500 -0300" stop="20221111014900 -0300" channel="HBO Xtreme FHD H.265">
+    <title lang="pt">Nosso Fiel Traidor</title>
+    <desc lang="pt">Enquanto aproveitam as férias no Marrocos, Perry e Gail conhecem o carismático Dima, um homem da máfia russa. Quando Dima lhes pede ajuda para entregar informação confidencial, o casal acaba envolvido em um jogo de espionagem.(n)</desc>
+    <credits>
+      <director>Susanna White</director>
+      <actor>Naomie Harris</actor>
+      <actor>Damian Lewis</actor>
+      <actor>Stellan Skarsgard</actor>
+      <actor>Ewan McGregor</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20221111014900 -0300" stop="20221111033600 -0300" channel="HBO Xtreme FHD H.265">
+    <title lang="pt">Aqueles Que Me Desejam a Morte</title>
+  </programme>
+  <programme start="20221111033600 -0300" stop="20221111060000 -0300" channel="HBO Xtreme FHD H.265">
+    <title lang="pt">Desaparecidas</title>
+    <desc lang="pt">Maggie cria as filhas Lilly e Dot numa remota região. Depois de anos vivendo com os índios, seu pai decide visitá-la. Mas ela só aceita sua companhia quando uma nova perda abala sua vida e ele é o único a quem pode recorrer.(n)</desc>
+    <credits>
+      <director>Ron Howard</director>
+      <actor>Cate Blanchett</actor>
+      <actor>Tommy Lee Jones</actor>
+      <actor>Evan Rachel Wood</actor>
+      <actor>Aaron Eckhart</actor>
+      <actor>Jenna Boyd</actor>
+      <actor>Eric Schweig</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221111060000 -0300" stop="20221111080400 -0300" channel="HBO Xtreme FHD H.265">
+    <title lang="pt">Dia de Treinamento</title>
+  </programme>
+  <programme start="20221111080400 -0300" stop="20221111101600 -0300" channel="HBO Xtreme FHD H.265">
+    <title lang="pt">Somos Marshall</title>
+    <desc lang="pt">Baseado em uma história verídica, o filme irá girar em torno de um técnico de um time de futebol americano e de alguns jogadores que tentarão seguir em frente após um trágico acidente de avião.(n)</desc>
+    <credits>
+      <director>Mc G</director>
+      <actor>Matthew McConaughey</actor>
+      <actor>Matthew Fox</actor>
+      <actor>Anthony Mackie</actor>
+      <actor>David Strathairn</actor>
+      <actor>Ian McShane</actor>
+      <actor>Kate Mara</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221111101600 -0300" stop="20221111123100 -0300" channel="HBO Xtreme FHD H.265">
+    <title lang="pt">Moneyball</title>
+    <sub-title lang="pt">O Homem que Mudou o Jogo</sub-title>
+    <desc lang="pt">Billy Beane, o gerente do time de baseball Oakland Athletics, está em um dilema ao ver seu orçamento cortado excessivamente. Assim, ele deve ter novas ideias para poder vencer a Série Mundial.(n)</desc>
+    <credits>
+      <director>Bennett Miller</director>
+      <actor>Brad Pitt</actor>
+      <actor>Jonah Hill</actor>
+      <actor>Philip Seymour Hoffman</actor>
+      <actor>Robin Wright</actor>
+      <actor>Chris Pratt</actor>
+      <actor>Reed Diamond</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20221111123100 -0300" stop="20221111131200 -0300" channel="HBO Xtreme FHD H.265">
+    <title lang="pt">Triunfo No Madison Square Garden</title>
+    <desc lang="pt">Segue o impacto cultural do pioneiro da NBA Jeremy Lin durante sua temporada 2011-12 com o New York Knicks e o fenômeno cultural conhecido como \.(n)</desc>
+    <credits>
+      <director>Frank Chi</director>
+      <actor>Tyson Chandler</actor>
+      <actor>Ronny Chieng</actor>
+      <actor>Jeremy Lin</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221111131200 -0300" stop="20221111145700 -0300" channel="HBO Xtreme FHD H.265">
+    <title lang="pt">Firewall</title>
+    <sub-title lang="pt">Segurança em Risco</sub-title>
+    <desc lang="pt">Especialista em segurança de computadores tem sua vida monitorada por um homem desconhecido.Sua família é seqüestrada e ele é obrigado a encontrar uma brecha em seu próprio sistema para fazer uma grande transferência de dinheiro.(n)</desc>
+    <credits>
+      <director>Richard Loncraine</director>
+      <actor>Harrison Ford</actor>
+      <actor>Paul Bettany</actor>
+      <actor>Virginia Madsen</actor>
+      <actor>Mary Lynn Rajskub</actor>
+      <actor>Alan Arkin</actor>
+      <actor>Ona Grauer</actor>
+    </credits>
+    <category lang="pt">Suspense</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20221111145700 -0300" stop="20221111165200 -0300" channel="HBO Xtreme FHD H.265">
+    <title lang="pt">O Estrangeiro</title>
+    <desc lang="pt">Quando a filha de Quan, um humilde empresário de Londres, morre em um atentado terrorista, seu passado oculto ressurge na forma de uma violenta busca implacável pelos responsáveis.(n)</desc>
+    <credits>
+      <director>Martin Campbell</director>
+      <actor>Katie Leung</actor>
+      <actor>Jackie Chan</actor>
+      <actor>Pierce Brosnan</actor>
+      <actor>Michael McElhatton</actor>
+      <actor>David Pearse</actor>
+      <actor>Rufus Jones</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20221111165200 -0300" stop="20221111183700 -0300" channel="HBO Xtreme FHD H.265">
+    <title lang="pt">Monster Hunter</title>
+  </programme>
+  <programme start="20221111183700 -0300" stop="20221111200500 -0300" channel="HBO Xtreme FHD H.265">
+    <title lang="pt">Infectado</title>
+    <desc lang="pt">Este thriller de terror segue com dois melhores amigos que partiram numa viagem ao redor do mundo. A viagem, documentada durante todo o trajeto, logo toma um rumo inesperado e obscuro.(n)</desc>
+    <credits>
+      <director>Derek Lee</director>
+      <director>Clif Prowse</director>
+      <actor>Derek Lee</actor>
+      <actor>Clif Prowse</actor>
+      <actor>Michael Gill</actor>
+      <actor>Baya Rehaz</actor>
+      <actor>Benjamin Zeitoun</actor>
+      <actor>Zach Gray</actor>
+    </credits>
+    <category lang="pt">Terror</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20221111200500 -0300" stop="20221111220000 -0300" channel="HBO Xtreme FHD H.265">
+    <title lang="pt">O Estrangeiro</title>
+    <desc lang="pt">Quando a filha de Quan, um humilde empresário de Londres, morre em um atentado terrorista, seu passado oculto ressurge na forma de uma violenta busca implacável pelos responsáveis.(n)</desc>
+    <credits>
+      <director>Martin Campbell</director>
+      <actor>Katie Leung</actor>
+      <actor>Jackie Chan</actor>
+      <actor>Pierce Brosnan</actor>
+      <actor>Michael McElhatton</actor>
+      <actor>David Pearse</actor>
+      <actor>Rufus Jones</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20221111220000 -0300" stop="20221111234500 -0300" channel="HBO Xtreme FHD H.265">
+    <title lang="pt">Monster Hunter</title>
+  </programme>
+  <programme start="20221111234500 -0300" stop="20221112013600 -0300" channel="HBO Xtreme FHD H.265">
+    <title lang="pt">Colombiana</title>
+    <sub-title lang="pt">Em Busca de Vingança</sub-title>
+    <desc lang="pt">Cataleya se tornou uma assassina cruel após testemunhar a morte de seus pais quando criança em Bogotá. Ela trabalha como assassina de aluguel, mas em seu tempo livre fica atenta, procurando pelo mafioso que matou seus pais.(n)</desc>
+    <credits>
+      <director>Olivier Megaton</director>
+      <actor>Jordi Molla</actor>
+      <actor>Zoe Saldana</actor>
+      <actor>Callum Blue</actor>
+      <actor>Jesse Borrego</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Michael Vartan</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
   </programme>
 </tv>
